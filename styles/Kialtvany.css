@@ -1,0 +1,19 @@
+.proba{
+    width:100%;
+}
+
+.flipbook_box{
+    margin: auto;
+    margin-top:2rem;
+    box-shadow: black 1px 1px 15px 1px;
+    margin-bottom:2rem;
+}
+.kiadvany_text{
+    width:92%;
+    margin:auto;
+
+}
+
+.kiadvany_text p{
+    margin-bottom:-1rem;
+}

@@ -1,0 +1,275 @@
+/******************\
+    FIRST SECTION
+\******************/
+/*.citizen_science_bg{
+    background:url('/images/citizen_science.jpg');
+}
+
+.kistavak_bg{
+    background:url('/images/kistavak_bg.jpg');
+}*/
+
+
+.kisokos_first-box{
+    width:100%;
+    position: relative;
+    top: -13rem;
+    background-position: bottom;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position:top;
+    padding-bottom:min(3rem);
+    margin-bottom:-10rem;
+    height:100%;
+    min-height:100vh;
+
+
+    
+}
+
+.kisokos_title{
+    font-family: 'Sahitya', serif;
+    color:#e6a42a;
+    text-shadow: 2px 2px white;  
+    font-size:5rem;
+    padding-top:15rem;
+    padding-bottom:5rem;
+    text-align:left;
+    margin-left:10rem;
+
+}
+
+
+
+.kisokos_text{
+    color:white;
+    font-family: 'cormorant garamond', serif;
+    width:70%;
+    margin-left:10rem;
+    font-size: 2.2rem;
+
+}
+@media(max-width:1200px){
+    .kisokos_title{
+        padding-top:15rem;
+    }
+
+    .kisokos_text{
+        width:75%;
+    }
+
+}
+
+@media(max-width:1024px){
+
+    .kisokos_first-box{
+top:-10rem;
+
+    }
+    .kisokos_title{
+        padding-top:10rem;
+    }
+
+
+
+}
+@media(max-width:769px){
+    .kisokos_title{
+        font-size: 3rem;
+        width:90%;
+        margin:auto;
+        text-align: center;
+    }
+    .kisokos_text{
+        width:90%;
+        margin: auto;
+        padding:0;
+    }
+
+    .kisokos_first-box{
+    margin-bottom:-5rem;
+    }
+}
+
+
+
+
+.second-box{
+    display: flex;
+}
+
+
+.second-box_one{
+    background-repeat: no-repeat;
+    height:40%;
+    width:100%;
+    background-position:center;
+    background-size: cover;
+   
+    
+    
+}
+
+.second-box_two{
+    
+}
+
+
+.second-box_text{
+    width:50%;
+}
+
+
+
+
+.second-section__box{
+    width:100%;
+    margin:auto;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    flex-flow: column;
+    
+    /*
+    background: url("/images/SC_hatter.png");  
+     */
+    background-position: center top;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+    
+
+}
+
+
+.second-section-div{
+    width:100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom:5rem;
+}
+
+
+.second-section--text-box{
+    width:35rem;
+    height:25rem;    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    
+}
+
+
+.second-section--text-box__text{
+    font-family:"Raleway", serif;
+    width:25rem;
+    font-size:1.2rem;
+
+}
+
+
+.citizen_left{
+margin-left:10.5rem;
+margin-right:-6.5rem;
+margin-top:-2rem;
+
+}
+
+
+.citizen_right{
+    margin-left:5rem;
+    margin-right:0rem;
+    margin-top:-2rem;
+}
+
+.bg{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:contain;
+
+}
+
+.forras{
+    width:80%;
+    /*
+    border: black 1px solid;
+    */
+    margin:auto;
+    margin-bottom:1rem;
+    
+}
+
+.forras_link{
+    float:left;
+    color:var(--zold);
+    
+    font-size: 1.3rem;
+
+}
+
+
+
+@media(max-width:1200px){
+    .second-section-div{
+        display: flex;
+        flex-direction: column;
+        margin-top:0rem;
+        margin-bottom:0;
+
+    }   
+
+    .second-section__box{
+        background-size: cover;
+        background-position: top;
+
+    }
+    
+}
+@media(max-width:1024px){
+
+}
+
+
+
+@media(max-width:769px){
+
+    
+    .second-section--text-box{
+        width:29rem;
+            
+     }
+
+     .citizen_left{
+        margin-left:8rem;
+        margin-right:1rem;
+        margin-top:-2rem;
+        font-size: 1rem;
+        
+        }
+        
+        
+        .citizen_right{
+            margin-left:3.5rem;
+            margin-right:4rem;
+            margin-top:-2rem;
+            font-size: 1rem;
+
+        }
+    
+        
+
+     .second-section-div>div{
+         margin-top:-7rem;
+
+     }
+
+
+ 
+     
+
+
+    }
+

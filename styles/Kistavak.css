@@ -1,0 +1,217 @@
+.kistavak{
+    width:80%;
+    margin:auto;
+}
+
+
+.kistavak_section_2{
+width:100%;
+margin:auto;
+
+
+
+}
+
+
+.section2_box{
+width:70%;
+margin: auto;
+
+
+}
+
+
+.section2_box-title{
+    font-size: 1.91rem;
+    margin-bottom:2rem;
+
+}
+
+
+.section2_box-text{
+    font-size:1.3rem;
+    line-height: 2rem;
+    display: flex;
+    flex-direction: row;
+    margin-bottom:3rem;
+   
+
+
+}
+
+
+
+
+
+
+
+
+.kistavak_kep{
+    margin-right:2%;
+    height:100%;
+    max-width: 35rem;
+
+
+}
+
+.box{
+    display: flex;
+    flex-direction: row;
+}
+
+
+.felsorolas{
+    margin-top:2rem;
+    list-style-type: none;
+    margin-bottom:2rem;
+ 
+    
+}
+
+
+
+.felsorolas_sor{
+    font-size: 1.3rem;
+    display: flex;
+    flex-direction: row;
+    margin-bottom:1.5rem;
+}
+
+
+
+
+.talp{
+    height:2rem;
+    margin-right:1rem;
+    width:2rem;
+}
+
+
+.tudtad_right{
+    display: flex;
+    justify-content: flex-end;
+    margin-top:5rem;
+    margin-bottom:5rem;
+    width:100%;
+    
+}
+
+
+.tudtad_left{
+    display: flex;
+    justify-content: flex-start;
+    margin-top:5rem;
+    margin-bottom:5rem;
+}
+
+
+.tudtad_box{
+    margin-top:2rem;
+    border:0.6vw #e6a42a solid;
+    border-radius: 1rem;
+    height:100%;
+    display: flex;
+    flex-direction: column;
+    padding-right:3rem;
+    padding-left:3rem;
+    width:80%;   
+    margin-left:2rem;
+    
+    
+}
+
+
+
+
+.tudtad_box_title{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+}
+
+.tudtad_title{
+    font-size:2.9rem;
+    margin-top:1.5rem;
+    margin-bottom:1.4rem;
+    color:#414d25;
+}
+
+
+
+
+.tudtad_box_text{
+    font-size:1.3rem;
+    margin-bottom:3rem;
+    
+    
+    
+}
+
+
+.tudtad_beka{
+    margin-top:-5.5rem;
+    height:9rem;
+    
+    
+}
+
+
+.grey_bg{
+    background:#f2f2f2;
+    width:100%;
+    padding-top:1rem;
+    padding-bottom:1rem;
+    margin-top: 2rem;
+    margin-bottom:2rem;
+}
+
+
+.vege_kep{
+    width:100%;
+    margin-bottom:2rem;
+    
+}
+
+
+@media(max-width:1400px){
+    .section2_box{
+        width:90%;    
+    }
+
+
+}
+
+@media(max-width:1024px){
+
+    .section2_box-text{
+        flex-direction: column;
+
+    
+    }
+    .kistavak_kep{
+        margin:auto;
+    width:100%;
+    margin-bottom:2rem;
+    ;
+    }
+
+    .section2_box-title{
+        text-align: center;
+        
+    }
+
+    .tudtad_box{
+        width:100%;
+        margin:auto;
+        margin-bottom:2rem;
+        margin-top:2rem;
+
+    }
+
+    .tudtad_right, .tudtad_left{
+        justify-content: center;
+        
+    }
+
+}

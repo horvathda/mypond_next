@@ -1,0 +1,522 @@
+{
+
+  "key":"hu",
+  "nav_home":"/",
+  "nav_kerdoiv":"/kerdoiv",
+
+  "_comment1": "************Magyar fordítás*************",
+
+
+   "_comment2": "****************HEADER**************",
+
+    "menu1": "Kérdőív",
+    "menu2": "Mintavétel",
+    "menu3": "Hírek",
+    "menu4": "Kisokos",
+    "menu5": "Célunk",
+    "menu6": "Eredmények",
+    "menu7": "Rólunk",
+    "menu8": "Kapcsolat",
+
+    "_comment3": "***********FŐOLDAL*************",
+
+    "kerdoiv":"Tovább olvasok",
+    "tovabb": "Tovább olvasok...",
+
+    "fooldal_cim_1_1": "Kíváncsi vagy már, ugye?",
+    "fooldal_szoveg_1": "Az ország legnagyobb kistó felmérésének utolsó fázisába léptünk.",
+
+
+    "fooldal_cim_2": "Tudod, mi az a citizen science?",
+    "fooldal_szoveg_2": "A citizen science (ejtsd: szitizen szájensz) vagy magyarul közösségi tudomány egy olyan mozgalom, amely futótűzként terjed a tudományos életben. Célja általában egy tudományos probléma vagy kutatási kérdés megoldása, amelybe a kutatást végző szakmabeliek, kutatók nem hivatásos személyeket is bevonnak. Az “önkéntes tudósok” segítségével nagy mennyiségű, értékes információ gyűjthető össze, emellett pedig lehetőség nyílik a résztvevők gyakorlati oktatására, illetve környezeti nevelésére.",
+    "fooldal_kerdoiv": "Van kerti kistavad, de lemaradtál a mintagyűjtésről?",
+    "fooldal_kerdoiv2": "Idén már lezárult az országos mintavétel, de még így is hasznos információkkal szolgálhatsz a projektünkhöz. Ha szeretnéd segíteni a munkánkat vagy értesülnél a jövőben egy hasonló lehetőségről, akkor töltsd ki a kérdőívünket!",
+    
+    "kerdoiv_button": "Kitöltöm a kérdőívet",
+
+
+    "fooldal_sarga_1": "A Föld állóvizeinek 30-50%-a kistó. Megtalálhatóak minden biogeográfiai régióban, a sivatagoktól a tundráig.",
+    "fooldal_sarga_2": "Mind a vízi, mind a szárazföldi flóra és fauna számára kiemelkedően fontos élőhelynek számítanak.",
+    "fooldal_sarga_3": "Jelentős szerepük van az éghajlatváltozás mérséklésében, és az ahhoz való alkalmazkodásban.",
+    "fooldal_sarga_4": "Kiváló rekreációs helyszínek, hiszen tudományos eredmények igazolják a tavak nyugtató és egészségjavító hatását!",
+    "fooldal_sarga_5": "Európa egyes régióiban a 20. század során a kistavak 50-90%-a eltűnt.",
+    "fooldal_sarga_6": "Könnyen létrehozhatók, és egy kis odafigyeléssel természetközeli élőhelyekké válhatnak.",
+
+    "fooldal_cim_3": "Kistavak nagy jelentőséggel!",
+    "fooldal_szoveg_3":"Kistavaknak (angolul ‘pond’) nevezzük azokat az édesvízi, alkalmanként sós víztesteket, melyek mérete 10 hektárnál kisebb. Előfordulhatnak kertekben, városokban, falvakban, termőföldeken, ártereken, pusztákon, erdőben, gyepeken és lápokon. Élőviláguk rendkívül népes és változatos.",
+
+    "fooldal_video": "Érdekel a kistavak világa? Nézd meg videónkat!",
+
+    "fooldal_tamogatok":"Támogatóink",
+    "fooldal_tamogatok_1":  "/images/logok/tamogatok_1.png",
+    "fooldal_tamogatok_2":"/images/logok/OK_UJ_HU.png",
+    "fooldal_tamogatok_3":"/images/logok/tamogatok_3.png",
+    "fooldal_tamogatok_4":"/images/logok/tamogatok_4.png",
+    "fooldal_tamogatok_5":"/images/logok/tamogatok_5.png",
+    "fooldal_tamogatok_6": "/images/logok/tamogatok_6.png",
+    "fooldal_tamogatok_7": "/images/logok/tamogatok_7.png",
+    "fooldal_tamogatok_8": "/images/logok/tamogatok_8.png",
+    "fooldal_tamogatok_9": "/images/logok/tamogatok_9.png",
+    "fooldal_tamogatok_10": "/images/logok/tamogatok_10.png",
+    "fooldal_tamogatok_11": "/images/logok/tamogatok_11.png",
+    "fooldal_tamogatok_12": "/images/logok/tamogatok_12.png",
+    "fooldal_tamogatok_13": "/images/logok/tamogatok_13.png",
+    "fooldal_tamogatok_14": "/images/logok/tamogatok_14.png",
+    "fooldal_tamogatok_15": "/images/logok/tamogatok_15.png",
+
+
+    "fooldal_partnerek": "Szakmai partnereink",
+    "fooldal_partner_1": "/images/logok/partner_1.png",
+    "fooldal_partner_2": "/images/logok/partner_2.png",
+    "fooldal_partner_3": "/images/logok/partner_3.jpg",
+    "fooldal_partner_4": "/images/logok/partner_4.jpg",
+    "fooldal_partner_5": "/images/logok/partner_5.png",
+    
+
+
+    "_comment4":"***********KÉRDŐÍV*************",
+
+    "kerdoiv_link": "https://forms.gle/rShxVCHUvEAdWjVZ6",
+    "loading":"Betöltés...",
+
+
+    "_comment5":"***********KISOKOS*************",
+
+    "kisokos_title_1": "Tudod mi az a citizen science?",
+    "kisokos_title_2": "Kistavak nagy jelentőséggel",
+    "kisokos_title_3": "Kistavak Kiáltvány",
+    "kisokos_title_4": "2021-es „Év kétéltűje”, a zöld varangy",
+    
+    "kisokos_text_1": "A citizen science (ejtsd: szitizen szájensz) vagy magyarul közösségi tudomány egy olyan mozgalom, amely futótűzként terjed a tudományos életben. Célja általában egy tudományos probléma vagy kutatási kérdés megoldása, amelybe a kutatást végző szakmabeliek, kutatók nem hivatásos személyeket is bevonnak.",
+    "kisokos_text_2": "Kistavaknak (angolul ‘pond’) nevezzük azokat az édesvízi (alkalmanként sós) víztesteket, melyek mérete 10 hektárnál kisebb. Élőviláguk rendkívül népes és változatos.",
+    "kisokos_text_3": "Ez a dokumentum az EPCN által készített első Kistó Kiáltvány. A Kiáltvány összegyűjti az európai kutatók és terepen dolgozó szakemberek tudását, tapasztalatait a kistavak védelmének minden vonatkoztatásában, mely eléréséhez konkrét stratégiát határoz meg.",
+    "kisokos_text_4": "A zöld varangyra leselkedő legfőbb veszély időszakos vízborítással rendelkező szaporodóhelyeinek idő előtti kiszáradása, mely a klímaváltozás miatt egyre gyakoribb probléma, így fennmaradásuk szempontjából a kerti tavaknak komoly szerepük lehet. Hazánkban a zöld varangy védett, természetvédelmi értéke 10.000 Ft.",
+
+
+    "_comment6":"***********CITIZEN SCIENCE*************",
+
+
+    "citizen_scince_title": "Tudod mi az a Citizen Science?",
+    "citizen_science_text": "A civil tudomány (“citizen science”) alapelveit az Európai Civil Tudomány Egyesülete  (European Citizen Science Association / ECSA) fogalmazta meg tíz pontban.",
+
+
+    "citizen_science_text_1": "A civil (közösségi) tudományos projektek az állampolgárokat cselekvő módon vonják be olyan tudományos tevékenységekbe, amelyekből új tudás vagy tudományos megértés születik. Az állampolgárok többféle szerepben vehetnek részt civil tudományos projektekben.",
+    "citizen_science_text_2": "A projektek valós tudományos eredményt hoznak. Például: egy tudományos kutatási kérdésre adnak választ vagy természetvédelmi beavatkozást, gazdálkodási, környezetpolitikai döntést alapoznak meg.",
+    "citizen_science_text_3": "A tudósok és az állampolgárok egyaránt hasznot húznak a részvételből. Az előnyök között említhető a kutatási eredmények publikációja, a tanulási lehetőségek, a kutatás élvezete, társadalmi hasznai és az eredményekből származó elégedettség.",
+    "citizen_science_text_4": "A civil kutatás résztvevői a projektek teljes folyamatában részt vállalhatnak - a kutatási kérdések és a módszertan kialakításától az adatgyűjtés és -elemzés megszervezésén át az eredmények nyilvános kommunikációjáig.",
+    "citizen_science_text_5": "A civil tudománynak a többi kutatási módszerhez hasonlóan megvannak a korlátai és elfogultságai. A hagyományos kutatási megközelítésekhez képest a civil tudomány lehetőséget teremt a magasabb szintű társadalmi részvételre és a tudomány demokratizálására.",
+    "citizen_science_text_6": "A civil tudomány a kutatásmódszertani megközelítések sorába illeszkedik, és a többihez hasonlóan megvannak a korlátai és elfogultságai. A hagyományos kutatási megközelítésekhez képest a civil tudomány lehetőséget teremt a magasabb szintű társadalmi részvételre és a tudomány demokratizálására.",
+    "citizen_science_text_7": "A civil tudományos projektek adatai és meta-adatai nyilvánosan elérhetők, és amennyiben lehetséges - a kutatási eredményeket térítésmentesen hozzáférhetővé is teszik. Az adatok megosztása a projekt közben vagy végén történhet, amennyiben ezt nem korlátozzák adatbiztonsági megfontolások.",
+    "citizen_science_text_8": "A civil tudományos projektek résztvevőit köszönetnyilvánítás illeti meg a projekt eredményeinek közzétételekor és a tudományos publikációkban.",
+    "citizen_science_text_9": "A civil tudományt a tudományos eredmények, az adatok minősége, a résztvevők tapasztalatai valamint a tágabb társadalmi és szakpolitikai hatásuk alapján értékelik.",
+    "citizen_science_text_10": "A civil tudományos projektek vezetői jogi és kutatásetikai kérdéseket is figyelembe vesznek - például a szerzői jog, a szellemi tulajdon, az adatmegosztás, a bizalmas adatkezelés, vagy a projektek környezeti hatása tekintetében.",
+
+
+    "_comment7":"***********KISTAVAK*************",
+
+    "tudtad":"Tudtad?",
+
+    "kistavak_title": "Kistavak nagy jelentőséggel",
+    "kistavak_text": "Kistavaknak (angolul ‘pond’) nevezzük azokat az édesvízi, alkalmanként sós állóvizeket, amelyek mérete 10 hektárnál kisebb. Előfordulhatnak kertekben, városokban, termőföldeken, pusztákon és erdőkben egyaránt. Élőviláguk rendkívül változatos, mivel élőhelyet kínálnak a mikroszkopikus élőlényektől a növényeken és gerincteleneken át a gerinces állatokig.",
+
+    "kistavak_section_1_title": "A természetes eredetű kistavakról",
+    "kistavak_section_1_text": "Geológiai bizonyítékok támasztják alá, hogy a természetes tavak évmilliók óta léteznek a Földön. A hosszú évek alatt számos növény és állat alkalmazkodott a vizes élőhelyekhez, melyek túlélése azóta is a tavak jelenlététől függ. Számos különböző formában és méretben fordulhatnak elő, vízmélységük pedig a néhány centiméteres víztesttől a több méteres mélységig terjedhet. Találunk köztük stabil, évezredek alatt sem változó tavakat, de a rövid életű, időszakos tavak sem ritkák. Sajnos napjainkban jóval kevesebb természetes eredetű kistóval találkozhatunk az európai tájakon, mint egykor. A kistavak számának csökkenése elsősorban az emberi tevékenységnek köszönhető, mint például:",
+    "kistavak_section_1_li_1": "A mezőgazdaság terjedésének és intenzitásának növekedése.",
+    "kistavak_section_1_li_2": "A folyók és árterek szabályozása, illetve az ezekhez kapcsolódó vízelvezetések.",
+    "kistavak_section_1_tudtad_1": "Habár a “kistó” kifejezésre többféle meghatározást találhatunk a szakirodalomban, általában 10 hektárnál kisebb állóvizet jelent (forrás: Pond Manifesto). Ez azonban még mindig viszonylag nagy terület (nagyjából megfelel a budai Várnak), így sokan inkább 2 ha alatt beszélnek csak kistavakról (ez nagyjából akkora, mint a Hősök tere).",
+    "kistavak_section_1_tudtad_2":"A Föld felszínén megtalálható összes, 10 hektárnál kisebb tó a felszíni édesvízkészlet teljes felületének 30%-át teszi ki!",
+
+
+    "kistavak_section_2_title":"A mesterséges eredetű tavakról",
+    "kistavak_section_2_text_1": "Szerencsére az emberek az elmúlt néhány ezer évben nem csak pusztították a vizes élőhelyeket, hanem az ipar és a mezőgazdaság számára, illetve rekreációs céllal mesterséges kistavakat is létrehoztak. A városi kistavak szinte mindig emberi kéz által jöttek létre és gyakran eltérő környezeti jellemzőkkel rendelkeznek, mint nem városi társaik:",
+    "kistavak_section_2_li_1":"Alapzatuk gyakran szintetikus (beton, műanyag stb.).",
+    "kistavak_section_2_li_2":"Növénytakarójuk alacsonyabb.",
+    "kistavak_section_2_li_3":"Más víztestekkel kevésbé vannak kapcsolatban.",
+    "kistavak_section_2_li_4":"A kommunális és ipari szennyezőanyagok gyakrabban és nagyobb koncentrációban érintkeznek velük.",
+    "kistavak_section_2_text_2": "Mindezek ellenére a kutatási eredmények arra engednek következtetni, hogy a mesterséges tavak ökológiai szempontból alapvetően mégsem különböznek a természetes tavaktól; így az ember alkotta tavak fontos természetvédelmi és egyben élőhelyvédelmi szerepet tölthetnek be.",
+
+
+    "kistavak_section_3_title":"A kistavak és a biodiverzitás",
+    "kistavak_section_3_text": " A kis méretű vizes élőhelyek, így a kistavak döntő fontosságúak a biodiverzitás szempontjából. A városok területén elhelyezkedő tavak  - a jelentős antropogén nyomás ellenére - a biodiverzitás szempontjából rendkívül fontos ‘hotspotok’-at (“forrópontokat”) alkotnak, emellett létfontosságú ökoszisztéma-szolgáltatásokat nyújtanak az urbanizáció negatív hatásainak ellensúlyozására.",
+    "kistavak_section_3_tudtad_1":"Az úgynevezett biodiverzitási hotspotok olyan helyszíneket jelölnek, melyek kivételesen gazdag biodiverzitással rendelkeznek. Ezek általában veszélyeztetett területek, melyek közül talán legismertebbek a fajokban bővelkedő esőerdők.",
+    "kistavak_section_3_tudtad_2":"Az ökoszisztéma-szolgáltatásnak nevezzük azt a hasznos folyamatot, amelyet az emberiség, illetve állat- és növényvilág egyaránt megkap a természetes folyamatoktól. Ezek az ajándékok – például az erdők fái és gyümölcsei, menedék az állatok számára, illetve a tiszta levegő – nemcsak hasznosak, hanem egyenesen elengedhetetlenek a kialakult élővilág és környezete számára.",
+
+
+    "kistavak_section_4_title":"Mi mindent “szolgáltatnak” nekünk a kistavak?",
+    "kistavak_section_4_li_1":"A kistavak (különösen azok hálózatai) sokféle élőhelyet kínálnak a ritka és védett fajok számára, ideértve a makrogerincteleneket, a kétéltűeket és a vízi növényeket is.",
+    "kistavak_section_4_li_2":"A természetes környezet szintjén bebizonyosodott, hogy a kistavak ugyanolyan mértékben járulnak hozzá a biodiverzitáshoz, mint a folyók vagy más nagyobb víztestek.",
+    "kistavak_section_4_li_3":"Az élőlények számára kapcsolatot (“lépőköveket”) biztosítanak a nagyobb édesvízi élőhelyek között.",
+    "kistavak_section_4_li_4":"A kistavak táplálékot biztosítanak az adott élőhelyen élő fajok számára (ízeltlábúak és növények formájában), menedéket, száraz időben ivóvizet szolgáltatnak. Ez különösen fontos olyan környezetben, ahol hiányoznak a természetes élőhelyek a vadon élő állatok számára.",
+    "kistavak_section_4_li_5":"Összességében a kistavak több - akár ritka és védett - fajt támogatnak, mint bármely más édesvízi élőhely.",
+    "kistavak_section_4_tudtad":"A kistavak az édesvízi élőlények közel kétharmadának biztosítanak élőhelyet!",
+
+
+    "kistavak_section_5_title":"A kistavak a globális felmelegedés hatásait is csökkentik?",
+    "kistavak_section_5_text_1":"A kistavak képesek jelentősen befolyásolni a mindannyiunkat érintő nagy, környezeti kihívásokat, úgymint: éghajlatváltozás, áradások és környezetszennyezés. Érdemes kiemelni a tavak éghajlatváltozás enyhítésében játszott szerepét. Kutatási eredmények igazolják, hogy a városok területén a nyílt víz a leghatékonyabb az úgynevezett városi hősziget-hatás helyi mérséklésében. Egy kis “tavacska” a hátsó kertben akár több fokkal is képes csökkenteni a hőmérsékletet a környezetében.",
+    "kistavak_section_5_tudtad":"A városi hősziget-hatás (“Urban Heat Island”, UHI) egy mikroklimatikus jelenség, mely elsősorban a nagyvárosokban tapasztalható. Lényege, hogy a beépített városi területen a hőmérséklet magasabb, mint a vidéki és a várost övező területeken.",
+    "kistavak_section_5_text_2":"Mindemellett eltávolíthatják a szennyeződéseket a felszíni vizekből, alapvető szerepet játszanak a vízgazdálkodásban és rekreációs, tájépítészeti hasznosításuk sem elhanyagolható. Nemcsak hasznosak, de szépek is!",
+
+    "_comment7.2":"***********VARANGY*************",
+
+    "zoldvarangy_title":"2021-es „Év kétéltűje”, a zöld varangy",
+    "zoldvarangy_text":"A zöld varangyra leselkedő legfőbb veszély időszakos vízborítással rendelkező szaporodóhelyeinek idő előtti kiszáradása, mely a klímaváltozás miatt egyre gyakoribb probléma. Fennmaradásuk szempontjából a kerti tavaknak komoly szerepük lehet. Hazánkban a zöld varangy védett, természetvédelmi értéke 10.000 Ft.",
+    "zoldvarangy_section_1_text":"Kerti tavaink gyakori látogatója a 2021-es „Év kétéltűje”, a zöld varangy. Zömök alkatú, nagytestű béka, mely jellegzetes terepszínű gúnyájáról könnyen felismerhető: hátának szürkés alapszínét vörös pontok és szabálytalan alakú, zöld foltok díszítik. Kultúrakövető fajként előszeretettel telepszik meg az ember környezetében. Az év nagy részében szárazföldi életet él, nappal búvóhelyén rejtőzködik, s éjjel jár gerinctelenekből álló zsákmánya után.",
+    "zoldvarangy_section_2_text":"A vizet többnyire csak a szaporodási időszakban keresi fel. Előnyben részesíti a sekély, napsütötte víztesteket. Kifejlett példányai hazánkban leggyakrabban áprilisban vagy májusban figyelhetőek meg a vízben, de előfordul, hogy násza egészen nyár közepéig elhúzódik. A hímek pirregő hívóhanggal szólítják meg a nőstényeket. A nőstény több ezer petéjét hosszú petezsinórban rakja le. A nászidőszak végeztével a kifejlett példányok elhagyják a vizet. A kikelő ebihalak sötét színűek, fejlődésük során főként elhalt növényi részeket és algát fogyasztanak. Átalakulásuk leggyakrabban júliusra vagy augusztusra esik, ekkor a kis zöld varangyok gyakran tömegesen hagyják el a vizet, ahol a kifejlett példányokéhoz hasonló, ragadozó életmódra térnek át.",
+    "zoldvarangy_section_3_text":"A zöld varangyra leselkedő legfőbb veszély időszakos vízborítással rendelkező szaporodóhelyeinek idő előtti kiszáradása, mely a klímaváltozás miatt egyre gyakoribb probléma. Lakott területeken a gépjárművek gázolása és az emberek ellenszenve is veszélyezteti. A zöld varangy fennmaradása szempontjából a kerti tavaknak komoly szerepük lehet. A zöld varangy a természetben az efemer jellegű sekély, napsütötte vizeket kedveli, legszívesebben ezekben szaporodik. Sikeres szaporodása szempontjából fontos, hogy az adott víztest mentes legyen a petéket, lárvákat elfogyasztó halaktól és partja ne legyen meredek (ha átalakulásuk után a kisvarangyok nem tudnak kimászni a vízből, akkor belefulladnak). A varangyok jelenléte a kertben több szempontból is hasznosnak mondható: átalakulásuk után a fiatalok szerves anyagot visznek ki a vízből, szárazföldi életük során pedig rengeteg kártevőt fogyasztanak el. Hazánkban a zöld varangy védett, természetvédelmi értéke 10 000 Ft.",
+    "iro":"Író:",
+    "iro_nev":" Péntek Attila László ",
+    "osztaly":"MME Kétéltű- és Hüllővédelmi Szakosztály",
+    "kepek":"Képek:",
+    "kepek_nev": "Péntek Attila László",
+
+
+
+    "_comment8":"***********TIPPEK*************",
+    "tippek_logo":"/images/tippek_logo_hu.jpg",
+
+    "_comment9":"***********CÉLUNK*************",
+
+    
+    "celunk_title_1":" Városi- és kertitó-adatbázis létrehozása és biodiverzitásuk felmérése",
+    "celunk_text_1_1":"Felmérjük a hazai településeken, különös tekintettel a Budapesten található kistavak számát, azok vízminőségét és biodiverzitását. Utóbbit egyrészt környezeti DNS alapú módszerekkel, másrészt ",
+    "celunk_text_1_2":" megközelítésben végezzük könnyen felismerhető, védett fajok alapján, mint például a kétéltűek és a szitakötők.", 
+    
+    "celunk_title_2":"Oktatás, környezeti nevelés",
+    "celunk_text_2_1":"A városi kistavak jelentőségével kapcsolatos ismeretterjesztést végzünk. Ezen belül elsősorban a biodiverzitás-megőrző szerepükre és ökoszisztéma-szolgáltatásaikra hívjuk fel a figyelmet, illetve gyakorlati tanácsokkal segítjük a jelenlegi és leendő tótulajdonosokat. Ismeretterjesztő tevékenységünket a lakosság, önkormányzatok és non-profit szervezetek együttműködésével végezzük.",
+    "celunk_text_2_2":"Honlapunkról hamarosan magyarul is elérhető lesz az Európai Kistó-védelmi Hálózat (EPCN) „Kistó Kiáltvány”-a (Pond Manifesto).",
+    
+    "celunk_title_3":"Tudományos publikációk készítése, felsőoktatás",
+    "celunk_text_3":" Alap- és alkalmazott kutatási eredményeinket tudományos folyóiratcikkekben publikáljuk, illetve egyetemi kurzusaink részét képezik. A kész adatbázis és a kutatási eredményeink a jövőben alapul szolgálhatnak a városi kék-zöld infrastruktúrák fejlesztéséhez, összhangban az EU 2030-ig szóló biodiverzitás stratégiájával.",
+
+    "_comment10":"***********KAPCSOLAT*************",
+
+    "kapcsolat_title": "Ökológiai Kutatóközpont",
+    "kapcsolat_line_1": "Vízi Ökológiai Intézet",
+    "kapcsolat_line_2": "Közösségökológiai Osztály",
+    "kapcsolat_line_3": "Biodiverzitás és Metaközösség-ökológia Kutatócsoport",
+    "kapcsolat_line_4": "Plankton-ökológiai Kutatócsoport",
+    "kapcsolat_line_5": "1113 Budapest, Karolina  út 29.",
+    "kapcsolat_line_6": "mypond@ecolres.hu",
+    
+
+    "_comment11":"***********FELTÖLTÉS ALATT*************",
+
+    "feltoltes_alatt":"/images/feltoltes.jpg",
+
+    "_comment12":"***********404*************",
+
+    "404": "A megadott oldal nem található!",
+
+    "_comment13":"***********FOOTER*************",
+
+    "footer_adatkezeles": "Adatkezelési tájékoztató",
+    "footer_minden_jog": "© Minden jog fenntartva. 2021-2022 Ökológiai Kutatóközpont",
+    "footer_facebook" :"/images/facebook.png",
+    "footer_instagram" :"/images/instagram.png",
+    "footer_twitter" :"/images/twitter.png",
+    "footer_youtube" :"/images/youtube.png",
+    
+
+
+"_comment14":"******************KIÁLTVÁNY*************",
+
+"kialtvany_text":"Lapozáshoz kattints a képre!",
+"kiadvany":"kiadvany_hu.pdf",
+"kiadvany_oldal_01":"/images/pond_manifesto_HU/Kistavak Kiáltvány TELJES V3_Oldal_01.jpg",
+"kiadvany_oldal_02":"/images/pond_manifesto_HU/Kistavak Kiáltvány TELJES V3_Oldal_02.jpg",
+"kiadvany_oldal_03":"/images/pond_manifesto_HU/Kistavak Kiáltvány TELJES V3_Oldal_03.jpg",
+"kiadvany_oldal_04":"/images/pond_manifesto_HU/Kistavak Kiáltvány TELJES V3_Oldal_04.jpg",
+"kiadvany_oldal_05":"/images/pond_manifesto_HU/Kistavak Kiáltvány TELJES V3_Oldal_05.jpg",
+"kiadvany_oldal_06":"/images/pond_manifesto_HU/Kistavak Kiáltvány TELJES V3_Oldal_06.jpg",
+"kiadvany_oldal_07":"/images/pond_manifesto_HU/Kistavak Kiáltvány TELJES V3_Oldal_07.jpg",
+"kiadvany_oldal_08":"/images/pond_manifesto_HU/Kistavak Kiáltvány TELJES V3_Oldal_08.jpg",
+"kiadvany_oldal_09":"/images/pond_manifesto_HU/Kistavak Kiáltvány TELJES V3_Oldal_09.jpg",
+"kiadvany_oldal_10":"/images/pond_manifesto_HU/Kistavak Kiáltvány TELJES V3_Oldal_10.jpg",
+"kiadvany_oldal_11":"/images/pond_manifesto_HU/Kistavak Kiáltvány TELJES V3_Oldal_11.jpg",
+"kiadvany_oldal_12":"/images/pond_manifesto_HU/Kistavak Kiáltvány TELJES V3_Oldal_12.jpg",
+"kiadvany_oldal_13":"/images/pond_manifesto_HU/Kistavak Kiáltvány TELJES V3_Oldal_13.jpg",
+"kiadvany_oldal_14":"/images/pond_manifesto_HU/Kistavak Kiáltvány TELJES V3_Oldal_14.jpg",
+"kiadvany_oldal_15":"/images/pond_manifesto_HU/Kistavak Kiáltvány TELJES V3_Oldal_15.jpg",
+"kiadvany_oldal_16":"/images/pond_manifesto_HU/Kistavak Kiáltvány TELJES V3_Oldal_16.jpg",
+"kiadvany_oldal_17":"/images/pond_manifesto_HU/Kistavak Kiáltvány TELJES V3_Oldal_17.jpg",
+"kiadvany_oldal_18":"/images/pond_manifesto_HU/Kistavak Kiáltvány TELJES V3_Oldal_18.jpg",
+"kiadvany_oldal_19":"/images/pond_manifesto_HU/Kistavak Kiáltvány TELJES V3_Oldal_19.jpg",
+"kiadvany_oldal_20":"/images/pond_manifesto_HU/Kistavak Kiáltvány TELJES V3_Oldal_20.jpg",
+"kiadvany_oldal_21":"/images/pond_manifesto_HU/Kistavak Kiáltvány TELJES V3_Oldal_21.jpg",
+"kiadvany_oldal_22":"/images/pond_manifesto_HU/Kistavak Kiáltvány TELJES V3_Oldal_22.jpg",
+"kiadvany_oldal_23":"/images/pond_manifesto_HU/Kistavak Kiáltvány TELJES V3_Oldal_23.jpg",
+
+
+"_comment15":"******************KIÁLTVÁNY*************",
+
+
+"rolunk_nev_1": "Dr. Horváth Zsófia",
+"rolunk_vegzettseg_1": "kutató",
+"rolunk_text_1": "metaközösség ökológia, biodiverzitás, vízi ökológia, konnektivitás, plankton, kisvizek",
+"rolunk_kep_1":"/images/rolunk/zsofi.jpg",
+
+
+"rolunk_nev_2": "Dr. Vad Csaba Ferenc",
+"rolunk_vegzettseg_2": "kutató",
+"rolunk_text_2": "planktonökológia, zooplankton, biodiverzitás, klímaváltozás, kisvizek és tavak ökológiája",
+"rolunk_kep_2":"/images/fiu.png",
+
+"rolunk_nev_3": "Dr. Szabó Beáta",
+"rolunk_vegzettseg_3": "kutató",
+"rolunk_text_3": "kovaalgák, metaközösség ökológia, konnektivitás, biodiverzitás, kisvizek",
+"rolunk_kep_3":"/images/rolunk/bea.jpg",
+
+"rolunk_nev_4": "Barta Barbara",
+"rolunk_vegzettseg_4": "kutató",
+"rolunk_text_4": "makrogerinctelenek",
+"rolunk_kep_4":"/images/rolunk/barbi.jpg",
+
+"rolunk_nev_5": "Csiszár Virág",
+"rolunk_vegzettseg_5": "szakasszisztens",
+"rolunk_text_5": "",
+"rolunk_kep_5":"/images/rolunk/virag.jpg",
+
+"rolunk_nev_6": "Fierpasz Ádám",
+"rolunk_vegzettseg_6": "szakasszisztens",
+"rolunk_text_6_1": "térinformatika,",
+"rolunk_text_6_2": "műholdas-, drónos távérzékelés ",
+"rolunk_kep_6":"/images/rolunk/adam.jpg",
+
+"rolunk_nev_7": "Kardos Vivien",
+"rolunk_vegzettseg_7": "admin",
+"rolunk_text_7": "",
+"rolunk_kep_7":"/images/lany.png",
+
+"rolunk_nev_8": "Laskai Csilla Júlia",
+"rolunk_vegzettseg_8": "szakasszisztens",
+"rolunk_text_8": "labor munkák",
+"rolunk_kep_8":"/images/rolunk/csilla.jpg",
+
+"rolunk_nev_9": "Dr. Irene Tornero",
+"rolunk_vegzettseg_9": "kutató",
+"rolunk_text_9": "makrogerinctelenek",
+"rolunk_kep_9":"/images/rolunk/irene.jpg",
+
+"rolunk_nev_10": "Dr. Andrew Hamer",
+"rolunk_vegzettseg_10": "kutató",
+"rolunk_text_10": "kétéltűek",
+"rolunk_kep_10":"/images/rolunk/andrew.jpg",
+
+
+"rolunk_nev_11": "Dr. Dobosy Péter",
+"rolunk_vegzettseg_11": "kutató",
+"rolunk_text_11": "vízkémia",
+"rolunk_kep_11":"/images/fiu.png",
+
+"rolunk_nev_12": " Márton Zsuzsanna",
+"rolunk_vegzettseg_12": "kutató",
+"rolunk_text_12": "",
+"rolunk_kep_12":"/images/lany.png",
+
+
+
+"_comment16":"******************Hírek*************",
+
+"hir1_datum":"2021.07.20.",
+"hir1_kep":"/images/hirek/hir_1.jpg",
+"hir1_cim":"Írt rólunk a National Geographic",
+"hir1_szoveg_slider":"A National Geographic rólunk írt cikkéből megtudhatod, hogy mi a célunk a magyarországi kerti kistavak felmérésével.",
+"hir1_szoveg_bevezetes":"A National Geographic rólunk írt cikkéből megtudhatod, hogy mi a célunk a magyarországi kerti kistavak felmérésével, azoknak milyen fontos szerepük van a helyi biodiverzitás növelésében, valamint az úgynevezett városi hőszigethatás csökkentésében, emellett élőhelyül szolgálnak számos őshonos élőlénynek.",
+"hir1_p1" : "Forrás:" ,
+"hir1_p2" : "Kerti kistavakkal kapcsolatos kutatásunkról írt a National Geographic ",
+"hir1_p3" : "A National Geographic rólunk írt ",
+"hir1_p4" : "cikkéből",
+"hir1_p5" : " megtudhatod, hogy mi a célunk a magyarországi kerti kistavak felmérésével, azoknak milyen fontos szerepük van a helyi biodiverzitás növelésében, valamint az úgynevezett városi hőszigethatás csökkentésében, emellett élőhelyül szolgálnak számos őshonos élőlénynek.",
+
+
+"hir2_datum":"2021.09.11.",
+"hir2_kep":"/images/hirek/hir_2.jpg",
+"hir2_cim":"Olvasd el a qubit.hu rólunk írt cikkét!",
+"hir2_szoveg_slider":"Már több mint 600-an kitöltötték azt a kérdőívet, amit Magyarország kerti kistavainak felmérésére állított össze a My Pond csapata.",
+"hir2_szoveg_bevezetes":"Már több mint 600-an kitöltötték azt a kérdőívet, amit Magyarország kerti kistavainak felmérésére állított össze munkatársaival Horváth Zsófia, az Ökológiai Kutatóintézet munkatársa, a My Pond elnevezésű projekt vezetője.",
+"hir2_p1": "Már több mint 600-an kitöltötték azt a ",
+"hir2_p2": " kérdőívet",
+"hir2_p3": ", amit Magyarország kerti kistavainak felmérésére állított össze munkatársaival Horváth Zsófia, az Ökológiai Kutatóintézet munkatársa, a My Pond elnevezésű projekt vezetője.",
+"hir2_p4": "Eddig a Fővárosból és környékéről érkezett a legtöbb visszajelzés, de a felmérésből kiderült, hogy nem csak a jelentősen urbanizált területeken alakítanak ki az emberek kistavakat. A dísztavaknak nagy szerepük van a biodiverzitás fenntartásában, akár növelésében, illetve csökkenti a hőszigethatást, biohűtőként elviselhetőbbé téve az egyre forróbb városi klímát.",
+"hir2_p5": "A teljes ",
+"hir2_p6": "interjút",
+"hir2_p7": " elolvashatod a Qubit.-on.",
+
+
+"hir3_datum":"2021.09.24.",
+"hir3_kep":"/images/hirek/hir_3.jpg",
+"hir3_cim":"MyPond a Kutatók Éjszakáján",
+"hir3_szoveg_slider":"Az Ökológiai Kutatóintézet munkatársai előadásokkal, laborlátogatásokkal, filmvetítéssel várták az érdeklődőket az ÖK Vízi Ökológiai Intézetben",
+"hir3_szoveg_bevezetes":"Az Ökológiai Kutatóintézet munkatársai előadásokkal, laborlátogatásokkal, filmvetítéssel várták az érdeklődőket az ÖK Vízi Ökológiai Intézetben 2021. szeptember 24-én.",
+"hir3_szoveg_bevezetes_2": "A rendezvény keretében a látogatók megismerhették a MyPond projektet is a kutatók “Mit rejt a kerti tavad?” című bemutatójából.",
+"hir3_p1":"Az Ökológiai Kutatóintézet munkatársai előadásokkal, laborlátogatásokkal, filmvetítéssel várták az érdeklődőket az ÖK Vízi Ökológiai Intézetben 2021. szeptember 24-én. A rendezvény keretében a látogatók megismerhették a MyPond projektet is a kutatók “Mit rejt a kerti tavad?” című bemutatójából.",
+
+
+
+"hir4_datum":"2021.10.03.",
+"hir4_kep":"/images/hirek/hir_4.jpg",
+"hir4_cim":"Földi Javak Asztalunkon - Mi is ott voltunk",
+"hir4_szoveg_slider":"Ismerkedés a természet, a gasztronómia, a művészet kincseivel a vácrátóti Nemzeti Botanikus Kertben.",
+"hir4_szoveg_bevezetes":"A Földi Javak Asztalunkon elnevezésű rendezvényen, 2021. október 4-én a helyi és regionális termelők, kézművesek termékeivel, szakmai kiállítókkal ismerkedhettek meg a helyszínre látogatók, a gyermekeknek szervezett programok mellett.",
+"hir4_p1": "A “Földi Javak Asztalunkon” elnevezésű rendezvényen, 2021. október 4-én a helyi és regionális termelők, kézművesek termékeivel, szakmai kiállítókkal ismerkedhettek meg a helyszínre látogatók, a gyermekeknek szervezett programok mellett.",
+"hir4_p2": "Fontos része  volt a rendezvénynek a vízi élővilág bemutatása, mint például a csigák, piócák, vízbogarak, rákok. A kistavak előlényeit is megismerhették a látogatók, és megtudhatták, hogy miért fontosak ezek a kerti csodák.",
+
+
+
+"hir5_datum":"2022.02.01.",
+"hir5_kep":"/images/hirek/hir_5.jpg",
+"hir5_cim":"Magyarország legnagyobb kistó felmérése",
+"hir5_szoveg_slider":"Köszönjük a több mint 800 sikeresen kitöltött kérdőívet, amellyel válaszadóink hozzájárultak munkánk sikeréhez.",
+"hir5_szoveg_bevezetes":"Köszönjük a több mint 800 sikeresen kitöltött kérdőívet, amellyel válaszadóink hozzájárultak munkánk sikeréhez.",
+"hir5_p1":"Köszönjük a több mint 800 sikeresen kitöltött kérdőívet, amellyel válaszadóink hozzájárultak munkánk sikeréhez.",
+"hir5_p10":"",
+"hir5_p2":"Itt",
+"hir5_p3":" megtekintheted, hogy miről is szól a kérdőívünk.",
+"hir5_p4":"Mi a célunk ezzel a kérdőívvel?",
+"hir5_p5":"A segítségeddel elkészítjük az ország kerti tavainak átnézeti térképét, melyen a tavak sok kis pontként lesznek ábrázolva, ugyanakkor a térkép nem nagyítható olyan mértékben, hogy a kert vagy a tó ténylegesen látszódjon, így őrizve meg az anonimitásod.",
+"hir5_p6":"A kérdőív kitöltésével rendkívül fontos munkát végzel! Az ilyen jellegű térképek kiemelkedően fontos szereppel bírnak a tóhálózat sűrűségének felderítésében, emellett pedig általános illusztrációs, valamint kommunikációs feladatok ellátásához is hasznosak. ",
+"hir5_p7":"Az elemzések elvégzéséhez a tavak GPS koordinátáira is szükségünk lesz. Célunk olyan kérdések megválaszolása, mint például nagyobb-e a biodiverzitás az olyan kerti tavakban, amelyek körül sok másik kerti tó található? A koordináták megadásával hozzájárulsz, hogy egyénileg nem azonosítható, anonim módon felhasználjuk a tó GPS koordinátáit térképes ábrázolások és későbbi biodiverzitás-elemzések készítéséhez!",
+"hir5_p8":"Az adatgyűjtéssel kapott eredményeket igény esetén visszajuttatjuk számodra, annak érdekében, hogy minél többet megtudhass tavad vízminőségéről, valamint a benne található élőlényekről.",
+"hir5_p9":"Kövesd figyelemmel folyamatosan bővülő honlapunkat, ha szeretnél többet megtudni kerti kistavadról!",
+
+
+"hir6_datum":"2022.03.04.",
+"hir6_kep":"/images/hirek/hir_6.jpg",
+"hir6_cim":"Vigyázz, kész, mintázz!",
+"hir6_szoveg_slider":"A MyPond csapata 2022. március 20-ig várja azok jelentkezését, akik a tavalyi felmérés során jelezték, hogy a kistavaikból mintát küldenének.",
+"hir6_szoveg_bevezetes":"A MyPond csapata 2022. március 20-ig várja azok jelentkezését, akik a tavalyi felmérés során jelezték, hogy a kistavaikból vett mintákkal szívesen segítenék Az én kistavam projekt kutatóinak munkáját.",
+"hir6_p1":"Forrás: FREEPIK",
+"hir6_p2":"Az idei évben kezdődik a ",
+"hir6_p3":"MyPond - Az én kistavam",
+"hir6_p4":" projekt mintagyűjtése. A MyPond csapata 2022. március 20-ig várja azok jelentkezését, akik a tavalyi felmérés során jelezték, hogy a kistavaikból vett mintákkal szívesen segítenék projekt kutatóinak munkáját.",
+"hir6_p5":"Az első 100 jelentkező az Oázis kertészet által felajánlott 2000 forintos ajándék utalványban részesül!",
+"hir6_p6":"A mintavétel folyamata egyszerű, és bárki számára elvégezhető. A minták feldolgozását és kiértékelését követően, az eredményeket az általad megadott e-mail címre küldjük, így te is megtudhatod, hogy milyen élőlényeknek ad otthon a tavad, illetve milyen tápanyagok és szennyezőanyagok találhatók benne!",
+
+
+
+
+"hir7_datum":"2022.04.11.",
+"hir7_kep":"/images/hirek/hir_7.jpg",
+"hir7_cim":"Interjú Horváth Zsófiával az M5 műsorán",
+"hir7_szoveg_slider":"A csatorna 'Novum – a tudomány sokszínű!' magazinműsorának munkatársai elkísérték a MyPond csapatát a kistavak mintavételezésére.",
+"hir7_szoveg_bevezetes":"A csatorna 'Novum – a tudomány sokszínű!' magazinműsorának munkatársai elkísérték a MyPond csapatát a kistavak mintavételezésére.",
+"hir7_p1":"A csatorna 'Novum – a tudomány sokszínű!' magazinműsorának munkatársai elkísérték a MyPond csapatát a kistavak mintavételezésére.",
+"hir7_p2":"Az interjút Ti is hamarosan megnézhetitek.",
+
+
+"hir8_datum":"2022.04.14.",
+"hir8_kep":"/images/hirek/hir_8.jpg",
+"hir8_cim":"Mintavétel a Fővárosi Állat- és Növénykert kistavaiból",
+"hir8_szoveg_slider":"Első állomásként a Fővárosi Állat- és Növénykert kistavaival kezdődött a fővárosi kistavak mintavételezése.",
+"hir8_szoveg_bevezetes":"Első állomásként a Fővárosi Állat- és Növénykert kistavaival kezdődött a fővárosi kistavak mintavételezése.",
+"hir8_p1":"Első állomásként a Fővárosi Állat- és Növénykert kistavaival kezdődött a fővárosi kistavak mintavételezése.",
+"hir8_p2":"A MyPond csapata több mint 60 budapesti tónál járt személyesen az elmúlt két hét alatt, azonban a kutatás önkéntesei sem tétlenkedtek, már megérkeztek az első környezeti DNS minták.",
+"hir8_p3":"Köszönjük a lelkes tótulajdonosoknak, csak így tovább!",
+
+
+
+"hir9_datum":"2022.05.04.",
+"hir9_kep":"/images/hirek/hir_9.jpg",
+"hir9_cim":"Mintaküldés",
+"hir9_szoveg_slider":"Az ország minden részéről érkeznek hozzánk mintavevő csomagok. Köszönjük azt a 270 dobozt, amit már visszaküldtetek számunkra!",
+"hir9_szoveg_bevezetes":"Az ország minden részéről érkeznek hozzánk mintavevő csomagok. Köszönjük azt a 270 dobozt, amit már visszaküldtetek számunkra!",
+"hir9_p1":"Az ország minden részéről érkeznek hozzánk mintavevő csomagok. Köszönjük azt a 270 dobozt, amit már visszaküldtetek számunkra!",
+"hir9_p2":"Még nem küldted vissza a mintavevő csomagot? Ne habozz, mi már nagyon várjuk! Ha segítségre van szükséged a mintavétel végrehajtásában, kattint a linkre, vagy keress minket bátran telefonon is!",
+
+
+
+"hir10_datum":"2022.05.21.",
+"hir10_kep":"/images/hirek/hir_10.jpg",
+"hir10_cim":"Biológiai sokféleség napja a Füvészkertben",
+"hir10_szoveg_slider":"2022. május 22-én ez alkalommal a Füvészkertben találkozhattatok velünk.",
+"hir10_szoveg_bevezetes":"2022. május 22-én ez alkalommal a Füvészkertben találkozhattatok velünk. Az ELTE Füvészkert több mint 8500 növényfajt, 150 hazai veszélyeztetett, és 250, a Nemzetközi Természetvédelmi Unió (IUCN) által veszélyeztetettnek minősített, “vörös könyves” fajt őriz. ",
+"hir10_p1":"2022. május 22-én ez alkalommal a Füvészkertben találkozhattatok velünk. Az ELTE Füvészkert több mint 8500 növényfajt, 150 hazai veszélyeztetett, és 250, a Nemzetközi Természetvédelmi Unió (IUCN) által veszélyeztetettnek minősített, “vörös könyves” fajt őriz. A Füvészkert kiemelten fontos természetvédelmi feladatot lát el a veszélyeztetett, védett növények megőrzése, mesterséges elszaporítása, továbbá visszatelepítési kísérletek folytatása által. ",
+"hir10_p2":"A biodiverzitás, vagy más néven biológiai sokféleség mindannyiunk életére hatással van, fennmaradása közös érdek, a jövőnk záloga. A nemzetközi biológiai sokféleség napján egész napos családi programokon vehettek részt kicsik és nagyok egyaránt. A kézműves és kertész gyerekfoglalkozások mellett számos szakmai előadáson és bemutatón bővíthették ismereteiket a látogatók a rendezvény során.Helyszínen gyűjtött vízmintából közelebbről is megismerhették az érdeklődők a kistavakban találhat vízi makrogerincetelenket, és zooplanktont, valamint  a már kerti tóval rendelkező és a leendő tótulajdonosokat tanácsokkal láttuk el a minél természetközelibb kerti tó kialakításának érdekében.",
+"hir10_p3":"Köszönetünket fejezzük ki az ELTE Füvészkertjének, valamint a kedves látogatóknak a munkánk iránti érdeklődést.",
+"hir10_p4":"Fantasztikus napunk volt Veletek!",
+
+
+
+"hir11_datum":"2022.05.27.",
+"hir11_kep":"/images/hirek/hir_11.jpg",
+"hir11_cim":"Kistavakról a Klubrádióban",
+"hir11_szoveg_slider":"Horváth Zsófia interjút adott a Klubrádiónak. A beszélgetést az 'Utópia' című műsorban hallhatjátok.",
+"hir11_szoveg_bevezetes":"Horváth Zsófia interjút adott a Klubrádiónak. A beszélgetést az 'Utópia' című műsorban hallhatjátok (23:21-től).",
+"hir11_p1":"Forrás:",
+"hir11_p2":"Horváth Zsófia interjút adott a Klubrádiónak. A beszélgetést az 'Utópia' című műsorban hallhatjátok (23:21-től).",
+"hir11_p3":"Meghallgatom",
+
+
+"hir12_datum":"2022.06.13.",
+"hir12_kep":"/images/hirek/hir_12.jpg",
+"hir12_cim":"Megismerhették munkánkat a 24.hu olvasói",
+"hir12_szoveg_slider":"Megtudhatjuk, hogyan népesülhet be egy kistó, és miért fontos ökológiai lépőkövek az élővilág számára.",
+"hir12_szoveg_bevezetes":"A 24.hu interjújában Horváth Zsófia beszél arról, hogy miként népesülhet be egy újonnan épített kistó.",
+"hir12_p2":"Az ",
+"hir12_p3":"interjúban",
+"hir12_p4":" Horváth Zsófia beszél arról, hogy miként népesülhet be egy újonnan épített kistó, a kistavak miért jelentenek fontos ökológiai lépőköveket az élővilág számára, miért nem érdemes a kerti tó 'trendeket' követni, illetve megtudhatjuk, hogy hol tart a MyPond országos kistó felmérése.",
+
+
+
+"hir13_datum":"2022.05.07.",
+"hir13_kep":"/images/hirek/hir_13.jpg",
+"hir13_cim":"Lezárult a mintavétel ­— Köszönjük, hogy részt vettetek a projektünkben!",
+"hir13_szoveg_slider":"Köszönjük a több, mint 300 lelkes kistó tulajdonosnak, hogy segítették munkánkat!",
+"hir13_szoveg_bevezetes":"Idén már lezárult az országos mintavétel, de még így is hasznos információkkal szolgálhatsz a projektünkhöz. ",
+"hir13_slider_cim": "Lezárult a mintavétel",
+"hir13_p1":"Idén már lezárult az országos mintavétel, de még így is hasznos információkkal szolgálhatsz a projektünkhöz. Ha szeretnéd segíteni a munkánkat vagy értesülnél a jövőben egy hasonló lehetőségről, akkor töltsd ki a ",
+"hir13_p2":"kérdőívünket!",
+"hir13_p3":"Köszönjük a több, mint 300 lelkes kistó tulajdonosnak, hogy a mintavételben való részvétellel segítették munkákat! Utalványokat sorsoltunk azok között az önkéntes kutatók között, akik vízmintával járultak hozzá Magyarország legnagyobb kistó felméréséhez. A szerencsések az Oázis Kertészet vásárlási utalványával és a Nyíregyházi Állatpark belépőjegyével lettek gazdagabbak.",
+"hir13_p4":"Gratulálunk!",
+"hir13_p5":"Ha már Te is alig bírod kivárni az eredményeket, kövesd továbbra is folyamatosan frissülő honlapunkat! Hamarosan jelentkezünk a legfrissebb adatokkal!",
+
+
+
+"hir14_datum":"2022.06.22.",
+"hir14_kep":"/images/hirek/hir_14.jpg",
+"hir14_cim":"MyPond kutatók a Tilos Rádióban",
+"hir14_szoveg_slider":"Interjú Horváth Zsófiával, Barta Barbarával és Márton Zsuzsannával ’A tudás (és a) hatalom’ című műsorban.",
+"hir14_szoveg_bevezetes":"A Horváth Zsófiával, Barta Barbarával és Márton Zsuzsannával készített interjú A tudás (és a) hatalom című műsorban hallható (04:31-től).",
+"hir14_p1":"A Horváth Zsófiával, Barta Barbarával és Márton Zsuzsannával készített interjú A tudás (és a) hatalom című műsorban hallható (04:31-től)",
+"hir14_p2":"Meghallgatom",
+
+"eredmenyek" :"images/eredmenyek2.jpg",
+
+"mintavetel_video": "Nézd meg videónkat, és tudj meg többet a mintavétel folyamatáról!",
+
+
+"hir1_path_slider":"./hirek/irt_rounk_a_national_geographic",
+"hir2_path_slider":"./hirek/olvasd_el_a_qubit.hu_rolunk_irt_cikket",
+"hir3_path_slider":"./hirek/mypond_a_kutatok_ejszakajan",
+"hir4_path_slider":"./hirek/foldi_javak_asztalunkon_mi_is_ott_voltunk",
+"hir5_path_slider":"./hirek/magyarorszag_legnagyobb_kisto_felmerese",
+"hir6_path_slider":"./hirek/vigyazz_kesz_mintazz",
+"hir7_path_slider":"./hirek/interju_az_m5_musoran",
+"hir8_path_slider":"./hirek/mintavetel_a_fovarosi_allat_es_novenykert_kistavaibol",
+"hir9_path_slider":"./hirek/mintakuldes",
+"hir10_path_slider":"./hirek/biologiai_sokfeleseg_napja_a_fuveszkertben",
+"hir11_path_slider":"./hirek/kistavakrol_a_klub",
+"hir12_path_slider":"./hirek/megismerhettek_munkankat_a_24.hu_olvasoi",
+"hir13_path_slider":"./hirek/lezarult_a_mintavetel",
+"hir14_path_slider":"./hirek/mypond_kutatok_a_tilos_radioban",
+
+"hir1_path":"./irt_rounk_a_national_geographic",
+"hir2_path":"./olvasd_el_a_qubit.hu_rolunk_irt_cikket",
+"hir3_path":"./mypond_a_kutatok_ejszakajan",
+"hir4_path":"./foldi_javak_asztalunkon_mi_is_ott_voltunk",
+"hir5_path":"./magyarorszag_legnagyobb_kisto_felmerese",
+"hir6_path":"./vigyazz_kesz_mintazz",
+"hir7_path":"./interju_az_m5_musoran",
+"hir8_path":"./mintavetel_a_fovarosi_allat_es_novenykert_kistavaibol",
+"hir9_path":"./mintakuldes",
+"hir10_path":"./biologiai_sokfeleseg_napja_a_fuveszkertben",
+"hir11_path":"./kistavakrol_a_klub",
+"hir12_path":"./megismerhettek_munkankat_a_24.hu_olvasoi",
+"hir13_path":"./lezarult_a_mintavetel",
+"hir14_path":"./mypond_kutatok_a_tilos_radioban"
+
+
+
+
+
+}

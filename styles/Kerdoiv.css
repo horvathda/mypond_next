@@ -1,0 +1,18 @@
+.kerdoiv{
+    width:100%;
+    height:100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+
+.kerdoiv_kep{
+    width:50%;
+    margin:auto;
+
+}
+
+.kerdoiv_kerdoiv{
+    margin:auto;
+}

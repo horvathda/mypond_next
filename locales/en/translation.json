@@ -1,0 +1,532 @@
+  
+  { 
+
+    "key":"en",
+
+    "nav_home":"/",
+
+    "nav_kerdoiv":"/kerdoiv",
+
+    
+    "_comment1": "************Angol fordítás*************",
+
+
+    "_comment2": "****************HEADER**************",
+    
+    "menu1": "Survey",
+    "menu2": "Sampling",
+    "menu3": "News",
+    "menu4": "Learn",
+    "menu5": "Aims",
+    "menu6": "Results",
+    "menu7": "About",
+    "menu8": "Contact",
+
+
+
+
+    "_comment3": "***********FŐOLDAL*************",
+
+    "kerdoiv":"Read more",
+    "tovabb": "Read more...",
+
+    "fooldal_cim_1_1": "You're curious, aren't you?",
+    "fooldal_szoveg_1": "We have entered the final phase of the largest small pond survey in the country.",
+
+
+    "fooldal_cim_2": "Citizen science, what is it exactly?",
+    "fooldal_szoveg_2": "Citizen science is a movement that has spread like wildfire within the scientific community. Its aim is usually to find answers to research-related problems or questions, in which the scientists also involve members of the public. With the help of “volunteer scientists”, a large amount of valuable information can be gathered, and it also offers opportunity to educate the participants in practical and environmental topics.",
+    "fooldal_kerdoiv": "Do you have a garden pond but missed the sampling?",
+    "fooldal_kerdoiv2": "The sampling has already ended this year, but you can still provide useful information for our project. If you would like to help us or be informed of a similar opportunity in the future, please fill in our questionnaire!",
+    
+    "kerdoiv_button": "Fill the questionnaire",
+
+
+    "fooldal_sarga_1": "Ponds make up 30-50% of the world’s standing waters.",
+    "fooldal_sarga_2": "They are extremely important habitats for both aquatic and terrestrial flora and fauna.",
+    "fooldal_sarga_3": "They play a large role in mitigating and adapting to climate change.",
+    "fooldal_sarga_4": "They are excellent recreational sites.",
+    "fooldal_sarga_5": "In some regions of Europe, 50-90% of ponds have already disappeared during the 20th century.",
+    "fooldal_sarga_6": "They are easy to create and, with a little effort, can become near-natural habitats.",
+
+    "fooldal_cim_3": "Small ponds - large impact",
+    "fooldal_szoveg_3":"Ponds are freshwater (sometimes saline) water bodies with a size generally smaller than 10 hectares. They can occur in gardens, cities, villages, farmlands, floodplains, steppes, woods, grasslands, and bogs. They host abundant and diverse biota.",
+
+    "fooldal_video": "Are you interested in the world of ponds? Watch our video!",
+
+    "fooldal_tamogatok":"Our sponsors",
+    "fooldal_tamogatok_1":  "/images/logok/tamogatok_1.png",
+    "fooldal_tamogatok_2":"/images/logok/OK_UJ_HU.png",
+    "fooldal_tamogatok_3":"/images/logok/tamogatok_3.png",
+    "fooldal_tamogatok_4":"/images/logok/tamogatok_4.png",
+    "fooldal_tamogatok_5":"/images/logok/tamogatok_5.png",
+    "fooldal_tamogatok_6": "/images/logok/tamogatok_6.png",
+    "fooldal_tamogatok_7": "/images/logok/tamogatok_7.png",
+    "fooldal_tamogatok_8": "/images/logok/tamogatok_8.png",
+    "fooldal_tamogatok_9": "/images/logok/tamogatok_9.png",
+    "fooldal_tamogatok_10": "/images/logok/tamogatok_10.png",
+    "fooldal_tamogatok_11": "/images/logok/tamogatok_11.png",
+    "fooldal_tamogatok_12": "/images/logok/tamogatok_12.png",
+    "fooldal_tamogatok_13": "/images/logok/tamogatok_13.png",
+    "fooldal_tamogatok_14": "/images/logok/tamogatok_14.png",
+    "fooldal_tamogatok_15": "/images/logok/tamogatok_15.png",
+
+    "fooldal_partnerek": "Our Partners",
+    "fooldal_partner_1": "/images/logok/partner_1.png",
+    "fooldal_partner_2": "/images/logok/partner_2.png",
+    "fooldal_partner_3": "/images/logok/partner_3.jpg",
+    "fooldal_partner_4": "/images/logok/partner_4.jpg",
+    "fooldal_partner_5": "/images/logok/partner_5.png",
+
+    "_comment4":"***********KÉRDŐÍV*************",
+
+    "kerdoiv_link":"https://forms.gle/FmPeyRmQB39LctMp6",
+    "loading":"Loading...",
+
+    "_comment5":"***********KISOKOS*************",
+
+    "kisokos_title_1": "Citizen science, what is it exactly?",
+    "kisokos_title_2": "Small ponds - large impact",
+    "kisokos_title_3": "Pond Manifesto",
+    "kisokos_title_4": "The European green toad, the „Amphibian of the year” in 2021",
+
+    
+    "kisokos_text_1": "Citizen science is a movement that has spread like wildfire within the scientific community. Its aim is usually to find answers to a research based problems or questions, in which the scientists also involve members of the public in providing certain data.",
+    "kisokos_text_2": "Ponds are freshwater (sometimes saline) water bodies with a size of less than 10 hectares. They can occur in gardens, cities, villages, farmlands, floodplains, steppes, woods, lawns and bogs. Their wildlife is extremely large and diverse.",
+    "kisokos_text_3": "This document presents the first Pond Manifesto, produced by the European Pond Conservation Network. The Manifesto contains the knowledge and experience of researchers and practitioners working across Europe on all aspect of pond conservation, which it sets out a specific strategy to achieve.",
+    "kisokos_text_4": "The biggest threat to green toads is the early drying of their temporarily water covered breeding sites, which is exacerbated by climate change, thus our garden ponds can play an important role in sustaining their populations. In Hungary, the green toad is protected with a conservation value of 10 000 HUF.",
+
+    "_comment6":"***********CITIZEN SCIENCE*************",
+
+    "citizen_scince_title": "Citizen science, what is it exactly?",
+    "citizen_science_text": "The principles of citizen science are set out in ten points by the European Citizen Science Association (ECSA).",
+
+
+    "citizen_science_text_1": "Citizen science projects actively involve citizens in scientific endeavour that generates new knowledge or understanding. Citizens may act as contributors, collaborators, or as project leader and have a meaningful role in the project.",
+    "citizen_science_text_2": "Citizen science projects have a genuine scientific outcome. For example, answering a research question or informing conservation action, management decisions or environmental policy.",
+    "citizen_science_text_3": "Both the professional scientists and the citizen scientists benefit from taking part. Benefits may include the publication of research outputs, learning opportunities, personal enjoyment, social benefits, satisfaction through contributing to scientific evidence.",
+    "citizen_science_text_4": "Citizen scientists may, if they wish, participate in multiple stages of the scientific process. This may include developing the research question, designing the method, gathering and analysing data, and communicating the results.",
+    "citizen_science_text_5": "Citizen scientists receive feedback from the project. For example, how their data are being used and what the research, policy or societal outcomes are.",
+    "citizen_science_text_6": "Citizen science is considered a research approach like any other, with limitations and biases. However unlike traditional research approaches, citizen science provides opportunity for greater public engagement and democratisation of science.",
+    "citizen_science_text_7": "Citizen science project data and meta-data are made publicly available and where possible, results are published in an open access format. Data sharing may occur during or after the project, unless there are security or privacy concerns that prevent this.",
+    "citizen_science_text_8": "Citizen scientists are acknowledged in project results and publications.",
+    "citizen_science_text_9": "Citizen science programmes are evaluated for their scientific output, data quality, participant experience and wider societal or policy impact.",
+    "citizen_science_text_10": "The leaders of citizen science projects take into consideration legal and ethical issues surrounding copyright, intellectual property, data sharing agreements, confidentiality, attribution, and the environmental impact of any activities.",
+
+
+    "_comment7":"***********KISTAVAK*************",
+
+    "tudtad":"Did you know?",
+
+    "kistavak_title": "Small ponds - large impact",
+    "kistavak_text": "Ponds are freshwater (sometimes saline) water bodies with a size of less than 10 hectares. They can occur in gardens, cities, farmlands, grasslands and woods. Their wildlife is extremely diverse, as ponds provide habitat for biota from microscopic organisms through plants and invertebrates to vertebrates.",
+
+    "kistavak_section_1_title": "All about natural ponds",
+    "kistavak_section_1_text": "Geological evidence show that natural ponds have been on earth for millions of years. Over this long period of time, many plants and animals have adapted to wetlands, the survival of which has since depended on the presence of ponds. Ponds can come in many different shapes and sizes, and their water depths can range from a few centimetres to several meters. We can find ponds among them that have not changed over millennia, and also short-lived ones, so called intermittent ponds that last for a few weeks only. Unfortunately, the numbers of natural ponds in Europe has been declining and the reason for the decrease is for the most part due to human activities, such as:",
+    "kistavak_section_1_li_1": "Continuously growing and intensifying agricultural activities.",
+    "kistavak_section_1_li_2": "Regulation of rivers and floodplains and associated drainage.",
+    "kistavak_section_1_tudtad_1": "The millions of small waterbodies (less than 10 hectars) make up to 30% of the planet’s fresh water reserve surface area.",
+    "kistavak_section_1_tudtad_2":"",
+
+    "kistavak_section_2_title":"All about artificial ponds",
+    "kistavak_section_2_text_1": "For the last few thousand years, people have not only destroyed wetlands, but also created ponds for industry, agriculture, and to create beauty in the landscape. Urban ponds were almost always created by humans and often have different environmental characteristics than their non-urban counterparts:",
+    "kistavak_section_2_li_1":"Their foundations are often made from concrete or plastic, etc.",
+    "kistavak_section_2_li_2":"There is less vegetation.",
+    "kistavak_section_2_li_3":"They are seldom connected to other water bodies.",
+    "kistavak_section_2_li_4":"Municipal and industrial pollutants come into contact with them more often and in higher concentrations.",
+    "kistavak_section_2_text_2": "Nevertheless, research results suggest that artificial ponds are not fundamentally ecologically different from natural ponds; thus, man-made ponds can play an important role in nature conservation and habitat protection.",
+
+
+    "kistavak_section_3_title":"Small ponds and biodiversity",
+    "kistavak_section_3_text": "Small-scale wetlands, such as small ponds, are crucial for biodiversity. Urban ponds, despite significant anthropogenic pressures, are extremely important ‘hotspots’ for biodiversity, as well as providing vital ecosystem services to offset the negative effects of urbanization.",
+    "kistavak_section_3_tudtad_1":"So-called biodiversity hotspots refer to sites that are exceptionally rich in biodiversity. These are usually endangered areas, perhaps the best known are the species-rich rainforests.",
+    "kistavak_section_3_tudtad_2":"Ecosystem services are gifts that nature gives us. These gifts — such as trees in the forests with their fruits, feed and shelter for animals, and clean and beautiful environment for us. All this is not only useful, but downright essential to us, to the individual, and the society, including the healthy functioning of any local communities.",
+    
+    
+    "kistavak_section_4_title":"What do small ponds “provide” us with?",
+    "kistavak_section_4_li_1":"Ponds, and their networks offer a wide variety of habitats for rare and protected species, including small vertebrates, amphibians and aquatic plants.",
+    "kistavak_section_4_li_2":"At the level of the natural environment, ponds have been shown to contribute to biodiversity to the same extent as rivers or other larger water bodies.",
+    "kistavak_section_4_li_3":"Wildlife is provided with stepping stones between larger freshwater habitats. ",
+    "kistavak_section_4_li_4":"Ponds provide food for the species living in the given habitat (in the form of insects and plants), provide shelter and drinking water in dry conditions. This is especially important in an environment where there is a lack of natural habitats for wildlife.",
+    "kistavak_section_4_li_5":"Overall, ponds support more species, both rare and protected, than any other freshwater habitat.",
+    "kistavak_section_4_tudtad":" Ponds provide habitat for nearly two-thirds of freshwater organisms!",
+
+    
+    "kistavak_section_5_title":"Can ponds reduce the effects of global warming? ",
+    "kistavak_section_5_text_1":"Ponds have the potential to make a significant impact on major environmental challenges that affect us all, such as climate change, floods and pollution. The role of ponds in fighting climate change is worth highlighting. Research results show that open water is the most effective in reducing the so-called Urban Heat Island (UHI) effect in urban areas. A small pond in the back garden can reduce the temperature around you by up to several degrees.",
+    "kistavak_section_5_tudtad":"The Urban Heat Island effect (“UHI”) is a microclimatic phenomenon that occurs primarily in large cities. The point is that the temperature in the built-up urban area is higher than in rural and peri-urban areas.",
+    "kistavak_section_5_text_2":"In addition, they can remove contaminants from surface waters, play an essential role in water management, and their recreational and landscape utilization cannot be neglected. Not only are they useful, but they are beautiful as well!",
+
+    "_comment7.2":"***********VARANGY*************",
+
+    "zoldvarangy_title":"The European green toad, the „Amphibian of the year” in 2021",
+    "zoldvarangy_text":"The biggest threat to green toads is the early drying of their temporarily water covered breeding sites, which is exacerbated by climate change, thus our garden ponds can play an important role in sustaining their populations. In Hungary, the green toad is protected with a conservation value of 10 000 HUF. ",
+    "zoldvarangy_section_1_text":"The European green toad, the „Amphibian of the year” in 2021 in Hungary, is a common visitor in our gardens. This chubby, large-bodied frog can be easily identified by its camouflage colours: the grey back has red dots and dark green patches. It has high tolerance for disturbance thus it can often be found around human settlements. Most of the year, it keeps to a terrestrial lifestyle and spends the day in its burrow, but hunts its invertebrate prey during the night.",
+    "zoldvarangy_section_2_text":"Generally, the green toad only uses water for reproduction and it prefers shallow, sunny waterbodies. In Hungary, adult toads can mostly be found in water during April or May, but occasionally the reproductive period can last until mid-summer. Males use high-pitched advertising mating calls (“pirrr”) to attract females who will lay thousands of eggs in egg-strings. Following the mating season, they will all leave the water until the next year. The hatching tadpoles are dark coloured and they mostly eat dead plant matter and algae. They metamorphose during July or August when the small toadlets migrate in masses to land where they switch to a predatory lifestyle.",
+    "zoldvarangy_section_3_text":"The biggest threat to green toads is the early drying of their temporarily water covered breeding sites, which is exacerbated by climate change. In urban areas, cars and the negative attitude of people towards them are also great sources of danger. Garden ponds, however, can be important for the survival of green toads. In nature, they choose shallow, ephemeral pools at sunny sites for reproduction. It is crucial for successful breeding that we do not stock our pond with fish that would feed on their eggs and tadpoles. Additionally, the shore should not be too steep so the toadlets can easily leave our pond and would not drown. Green toads can be very useful in our garden as the metamorphosing offspring export nutrients from the water, reducing the nutrient load in our pond and during their terrestrial life stage, they eat insect pests. In Hungary, the green toad is protected with a conservation value of 10 000 HUF. ",
+    "iro":"Author:",
+    "iro_nev":"Attila László Péntek ",
+    "osztaly":"MME Kétéltű- és Hüllővédelmi Szakosztály",
+    "kepek":"Photos:",
+    "kepek_nev": "Attila László Péntek",
+
+    "_comment8":"***********TIPPEK*************",
+    "tippek_logo":"/images/tippek_logo_en.jpg",
+
+
+
+
+    "_comment9":"***********CÉLUNK*************",
+
+    "celunk_title_1":"Creating a database to assess the biodiversity of urban ponds",
+    "celunk_text_1_1":"We are listing all urban ponds in Hungary with an emphasis on the capital city, examining the water quality and biodiversity. The latter is calculated by a combination of environmental DNA-based methods and a ",
+    "celunk_text_1_2":"approach built on easily recognizable protected species such as amphibians and dragonflies.",
+    
+    "celunk_title_2":"Education and environmental awareness",
+    "celunk_text_2_1":"One of our goals is to raise awareness on the importance of urban ponds, focusing on their role in biodiversity conservation and ecosystem services. In addition we provide useful tips and practical advice to current and future pond owners. Not only will we spread information within the community, but we will be closely working with municipalities and non-profit organisations.",
+    "celunk_text_2_2":"The ''Pond Manifesto'' published by the European Pond Conservation Network (EPCN) will soon be available in Hungarian.",
+    
+    "celunk_title_3":"Scientific publications and higher education",
+    "celunk_text_3":"We will publish our results in basic and applied scientific journals. All data will be utilized in our university courses. The completed database and our research results can serve as a basis for the development of urban blue-green infrastructures in the future, in line with the EU Biodiversity Strategy 2030.",
+
+
+    "_comment10":"***********KAPCSOLAT*************",
+
+
+    "kapcsolat_title": "Centre for Ecological Research",
+    "kapcsolat_line_1": "Institute of Aquatic Ecology",
+    "kapcsolat_line_2": "Department of Community Ecology",
+    "kapcsolat_line_3": "Plankton Ecology Research Group",
+    "kapcsolat_line_4": "Biodiversity and Metacommunity Ecology Research Group",
+    "kapcsolat_line_5": "1113 Budapest, Karolina  str. 29.",
+    "kapcsolat_line_6": "mypond@ecolres.hu",
+
+
+    "_comment11":"***********FELTÖLTÉS ALATT*************",
+
+    "feltoltes_alatt":"/images/loading.jpg",
+
+    "_comment12":"***********404*************",
+
+    "404":"Page not found!",
+
+    "_comment13":"***********FOOTER*************",
+
+    "footer_adatkezeles": "Privacy Notice",
+    "footer_minden_jog": "© All rights reserved. 2021-2022 Centre for Ecological Research",
+    "footer_facebook" :"/images/facebook.png",
+    "footer_instagram" :"/images/instagram.png",
+    "footer_twitter" :"/images/twitter.png",
+    "footer_youtube" :"/images/youtube.png",
+
+
+
+    "_comment14":"******************KIÁLTVÁNY*************",
+
+    "kialtvany_text":"Click on the image to turn a page!",
+    "kiadvany":"/kiadvany/kiadvany_eng.pdf",
+
+    "kiadvany_oldal_01":"/images/pond_manifesto_EN/EPCN-MANIFESTO_Oldal_01.jpg",
+    "kiadvany_oldal_02":"/images/pond_manifesto_EN/EPCN-MANIFESTO_Oldal_02.jpg",
+    "kiadvany_oldal_03":"/images/pond_manifesto_EN/EPCN-MANIFESTO_Oldal_03.jpg",
+    "kiadvany_oldal_04":"/images/pond_manifesto_EN/EPCN-MANIFESTO_Oldal_04.jpg",
+    "kiadvany_oldal_05":"/images/pond_manifesto_EN/EPCN-MANIFESTO_Oldal_05.jpg",
+    "kiadvany_oldal_06":"/images/pond_manifesto_EN/EPCN-MANIFESTO_Oldal_06.jpg",
+    "kiadvany_oldal_07":"/images/pond_manifesto_EN/EPCN-MANIFESTO_Oldal_07.jpg",
+    "kiadvany_oldal_08":"/images/pond_manifesto_EN/EPCN-MANIFESTO_Oldal_08.jpg",
+    "kiadvany_oldal_09":"/images/pond_manifesto_EN/EPCN-MANIFESTO_Oldal_09.jpg",
+    "kiadvany_oldal_10":"/images/pond_manifesto_EN/EPCN-MANIFESTO_Oldal_10.jpg",
+    "kiadvany_oldal_11":"/images/pond_manifesto_EN/EPCN-MANIFESTO_Oldal_11.jpg",
+    "kiadvany_oldal_12":"/images/pond_manifesto_EN/EPCN-MANIFESTO_Oldal_12.jpg",
+    "kiadvany_oldal_13":"/images/pond_manifesto_EN/EPCN-MANIFESTO_Oldal_13.jpg",
+    "kiadvany_oldal_14":"/images/pond_manifesto_EN/EPCN-MANIFESTO_Oldal_14.jpg",
+    "kiadvany_oldal_15":"/images/pond_manifesto_EN/EPCN-MANIFESTO_Oldal_15.jpg",
+    "kiadvany_oldal_16":"/images/pond_manifesto_EN/EPCN-MANIFESTO_Oldal_16.jpg",
+    "kiadvany_oldal_17":"/images/pond_manifesto_EN/EPCN-MANIFESTO_Oldal_17.jpg",
+    "kiadvany_oldal_18":"/images/pond_manifesto_EN/EPCN-MANIFESTO_Oldal_18.jpg",
+    "kiadvany_oldal_19":"/images/pond_manifesto_EN/EPCN-MANIFESTO_Oldal_19.jpg",
+    "kiadvany_oldal_20":"/images/pond_manifesto_EN/EPCN-MANIFESTO_Oldal_20.jpg",
+    "kiadvany_oldal_21":"/images/pond_manifesto_EN/EPCN-MANIFESTO_Oldal_19.jpg",
+    "kiadvany_oldal_22":"/images/pond_manifesto_EN/EPCN-MANIFESTO_Oldal_20.jpg",
+    "kiadvany_oldal_23":"/images/pond_manifesto_EN/EPCN-MANIFESTO_Oldal_20.jpg",
+
+
+    "_comment15":"******************KIÁLTVÁNY*************",
+
+    "rolunk_nev_1": "Zsófia Horváth, PhD",
+    "rolunk_vegzettseg_1": "researcher",
+    "rolunk_text_1": "metacommunity ecology, biodiversity, aquatic ecology, connectivity, plankton, ponds",
+    "rolunk_kep_1":"/images/rolunk/zsofi.jpg",
+
+    
+    "rolunk_nev_2": "Csaba Ferenc Vad, PhD",
+    "rolunk_vegzettseg_2": "researcher",
+    "rolunk_text_2": "plankton ecology, zooplankton, biodiversity, global change, ecology of lakes and ponds",
+    "rolunk_kep_2":"/images/fiu.png",
+
+
+    "rolunk_nev_3": "Beáta Szabó, PhD",
+    "rolunk_vegzettseg_3": "researcher",
+    "rolunk_text_3": "diatoms, metacommunity ecology, connectivity, biodiversity, ponds",
+    "rolunk_kep_3":"/images/rolunk/bea.jpg",
+
+
+    "rolunk_nev_4": "Barbara Barta",
+    "rolunk_vegzettseg_4": "researcher",
+    "rolunk_text_4": "makroinvertebrates",
+    "rolunk_kep_4":"/images/rolunk/barbi.jpg",
+
+
+
+    "rolunk_nev_5": "Virág Csiszár",
+    "rolunk_vegzettseg_5": "technical assistant",
+    "rolunk_text_5": "",
+    "rolunk_kep_5":"/images/rolunk/virag.jpg",
+
+    
+    "rolunk_nev_6": "Ádám Fierpasz",
+    "rolunk_vegzettseg_6": "technical assistant",
+    "rolunk_text_6_1": "",
+    "rolunk_text_6_2": "",
+    "rolunk_kep_6":"/images/rolunk/adam.jpg",
+
+    
+    "rolunk_nev_7": "Vivien Kardos",
+    "rolunk_vegzettseg_7": "admin",
+    "rolunk_text_7": "",
+    "rolunk_kep_7":"/images/lany.png",
+
+    
+    "rolunk_nev_8": "Csilla Júlia Laskai",
+    "rolunk_vegzettseg_8": "technical assistant",
+    "rolunk_text_8": "laboratory work",
+    "rolunk_kep_8":"/images/rolunk/csilla.jpg",
+
+
+    "rolunk_nev_9": "Irene Tornero, PhD",
+    "rolunk_vegzettseg_9": "researcher",
+    "rolunk_text_9": "makroinvertebrates",
+    "rolunk_kep_9":"/images/rolunk/irene.jpg",
+
+
+    "rolunk_nev_10": "Andrew Hamer, PhD",
+    "rolunk_vegzettseg_10": "researcher",
+    "rolunk_text_10": "amphibians",
+    "rolunk_kep_10":"/images/rolunk/andrew.jpg",
+
+   
+    "rolunk_nev_11": "Péter Dobosy, PhD",
+    "rolunk_vegzettseg_11": "researcher",
+    "rolunk_text_11": "water chemistry",
+    "rolunk_kep_11":"/images/fiu.png",
+
+
+    "rolunk_nev_12": "Zsuzsanna Márton",
+    "rolunk_vegzettseg_12": "researcher",
+    "rolunk_text_12": "",
+    "rolunk_kep_12":"/images/lany.png",
+
+
+
+  
+   
+"_comment16":"******************Hírek*************",
+
+"hir1_datum":"2021.07.20.",
+"hir1_kep":"/images/hirek/hir_1.jpg",
+"hir1_cim":"National Geographic wrote about us!",
+"hir1_szoveg_slider":"National Geographic wrote about our research on small garden ponds!",
+"hir1_szoveg_bevezetes":"In the National Geographic article, you can find out what our goals are with the survey of small garden ponds in Hungary, what important roles they play in increasing local biodiversity and reducing the so-called urban heat island effect, and how they also serve as a habitat for many native creatures.",
+
+"hir1_p1" : "Source:" ,
+"hir1_p2" : "National Geographic wrote about our research on small garden ponds!",
+"hir1_p3" : "In the National Geographic ",
+"hir1_p4" : "article",
+"hir1_p5" : ", you can find out what our goals are with the survey of small garden ponds in Hungary, what important roles they play in increasing local biodiversity and reducing the so-called urban heat island effect, and how they also serve as a habitat for many native creatures.",
+
+"hir2_datum":"2021.09.11.",
+"hir2_kep":"/images/hirek/hir_2.jpg",
+"hir2_cim":"Read qubit.hu’s article about us!",
+"hir2_szoveg_slider":"Már több mint 600-an kitöltötték azt a kérdőívet, amit Magyarország kerti kistavainak felmérésére állított össze a My Pond csapata.",
+"hir2_szoveg_bevezetes":"More than 600 people have already filled out the questionnaire that Zsófia Horváth, the MyPond project leader and employee at the Institute of Aquatic Ecology, put together with her colleagues to assess Hungary's garden ponds.",
+"hir2_p1": "More than 600 people have already filled out the ",
+"hir2_p2": " questionnaire ",
+"hir2_p3": "that Zsófia Horváth, the MyPond project leader and employee at the Institute of Aquatic Ecology, put together with her colleagues to assess Hungary's garden ponds.",
+"hir2_p4": "So far, the majority of answers have been received from the capital and its surroundings, but so far the survey revealed that people do not only create small ponds in significantly urbanized areas. Ornamental lakes play a major role in maintaining or even increasing biodiversity, and reduce the heat island effect, making the increasingly hot urban climate more bearable as a biocooler.",
+"hir2_p5": "You can read the entire ",
+"hir2_p6": "interview",
+"hir2_p7": " on Qubit.",
+
+
+
+
+"hir3_datum":"2021.09.24.",
+"hir3_kep":"/images/hirek/hir_3.jpg",
+"hir3_cim":"MyPond during Researchers Night ",
+"hir3_szoveg_slider":"The staff of the Ecological Research Institute welcomed everyone who was curious with lectures, laboratory visits, and film screenings at the CER, Institute of Aquatic Ecology",
+"hir3_szoveg_bevezetes":"The staff of the Ecological Research Institute welcomed everyone who was curious with lectures, laboratory visits, and film screenings at the CER, Institute of Aquatic Ecology on September 24, 2021.",
+"hir3_szoveg_bevezetes_2":"In the framework of the event, the visitors were also able to learn about the MyPond team also put together a program called “What is hidden in your garden pond?”" ,
+"hir3_p1":"The staff of the Ecological Research Institute welcomed everyone who was curious with lectures, laboratory visits, and film screenings at the CER, Institute of Aquatic Ecology on September 24, 2021. In the framework of the event, the visitors were also able to learn about the MyPond team also put together a program called “What is hidden in your garden pond?”",
+
+
+"hir4_datum":"2021.10.03.",
+"hir4_kep":"/images/hirek/hir_4.jpg",
+"hir4_cim":"Event at the National Botanical Garden.",
+"hir4_szoveg_slider":"Visitors got the chance to buy and get to know local and regional artesian products, as well as look at exhibitions, and join programs organised for children and grownups alike.",
+"hir4_szoveg_bevezetes":"The National Botanical Gardens held an event on the 4th of October 2021, called “Földi Javak Asztalunkon” (aka “Earthly goods on our table”). Visitors got the chance to buy and get to know local and regional artesian products, as well as look at exhibitions, and join programs organised for children and grownups alike.",
+"hir4_p1": "The National Botanical Gardens held an event on the 4th of October 2021, called “Földi Javak Asztalunkon” (aka “Earthly goods on our table”). Visitors got the chance to buy and get to know local and regional artesian products, as well as look at exhibitions, and join programs organised for children and grownups alike.",
+"hir4_p2": "An important part of the event was the presentation of aquatic life, such as snails, leeches, water bugs, and crabs. Visitors were able to learn about the advantages of small ponds and why they are important.",
+
+
+"hir5_datum":"2022.02.01.",
+"hir5_kep":"/images/hirek/hir_5.jpg",
+"hir5_cim":"Hungary's largest small pond survey",
+"hir5_szoveg_slider":"More than 800 questionnaires have been filled out! Thank you to all who have contributed towards our project! ",
+"hir5_szoveg_bevezetes":"More than 800 questionnaires have been filled out! Thank you to all who have contributed towards our project! ",
+"hir5_p1":"More than 800 questionnaires have been filled out! Thank you to all who have contributed towards our project! ",
+"hir5_p10":"You can have a look at the questionnaire ",
+"hir5_p2":"HERE",
+"hir5_p3":"",
+"hir5_p4":"What is our goal with this questionnaire?",
+"hir5_p5":"With your help, we will prepare a garden pond overview map of the country, on which the ponds will be represented as many small dots, therefore the map cannot be enlarged to such an extent that the garden or the lake is actually visible, thus preserving your anonymity.",
+"hir5_p6":"By filling out the questionnaire, you are doing extremely important work! Maps of this type play an extremely important role in detecting the density of pond networks, and are also useful for general illustrations and communication tasks.",
+"hir5_p7":"To carry out the analyses, we will also need the GPS coordinates of your garden pond. Our goal is to answer questions such as: Is there more biodiversity in garden ponds surrounded by many other bodies of water? By providing us with the coordinates, you are allowing us use the coordinates in creating maps, and biodiversity analyses.",
+"hir5_p8":"Data collected from your garden pond will be provided back to you. The date will include water quality, and the living organisms found within your pond. ",
+"hir5_p9":"For more information about this project, or about garden ponds in general, follow our constantly expanding website!",
+
+
+"hir6_datum":"2022.03.04.",
+"hir6_kep":"/images/hirek/hir_6.jpg",
+"hir6_cim":"Ready, set, SAMPLE!",
+"hir6_szoveg_slider":"The MyPond team is waiting until March 20, 2022 for applications from those who indicated during last year's survey that they would be happy to help the project's researchers with samples taken from their small ponds.",
+"hir6_szoveg_bevezetes":"The MyPond team is waiting until March 20, 2022 for applications from those who indicated during last year's survey that they would be happy to help the project's researchers with samples taken from their small ponds.",
+"hir6_p1":"Source: FREEPIK",
+"hir6_p2":"This year, the collection of samples for the ",
+"hir6_p3":"MyPond - My small pond ",
+"hir6_p4":"project begins. The MyPond team is waiting until March 20, 2022 for applications from those who indicated during last year's survey that they would be happy to help the project's researchers with samples taken from their small ponds.",
+"hir6_p5":"The first 100 applicants will receive a 2.000 Ft gift voucher offered by Oázis kertészet!",
+"hir6_p6":"The sampling process is simple and anyone can do it. After the samples have been sent back, processed, and evaluated, the results will be sent to the e-mail address you provided. Not only will you get information on out what creatures live in your pond, but also on what nutrients and pollutants it contains!",
+
+
+
+"hir7_datum":"2022.04.11.",
+"hir7_kep":"/images/hirek/hir_7.jpg",
+"hir7_cim":"Interview with Zsófia Horváth",
+"hir7_szoveg_slider":"The channel M5’s “Novum – a tudomány sokszínű!” staff accompanied the MyPond team to sample a garden pond.",
+"hir7_szoveg_bevezetes":"The channel M5’s “Novum – a tudomány sokszínű!” staff accompanied the MyPond team to sample a garden pond.",
+"hir7_p1":"The channel M5’s “Novum – a tudomány sokszínű!” staff accompanied the MyPond team to sample a garden pond.",
+"hir7_p2":"The full episode will be available soon.",
+
+
+"hir8_datum":"2022.04.14.",
+"hir8_kep":"/images/hirek/hir_8.jpg",
+"hir8_cim":"Sampling the ponds at Budapest Zoo and Botanical Garden",
+"hir8_szoveg_slider":"The MyPond projects first sample collection began with the ponds found at Budapest Zoo and Botanical Garden.",
+"hir8_szoveg_bevezetes":"The MyPond projects first sample collection began with the ponds found at Budapest Zoo and Botanical Garden.",
+"hir8_p1":"The MyPond projects first sample collection began with the ponds found at Budapest Zoo and Botanical Garden.",
+"hir8_p2":"The MyPond team personally visited more than 60 lakes in Budapest during the past two weeks, but the research volunteers were not idle either, the first environmental DNA samples have already arrived.",
+"hir8_p3":"Thank you to the amazing garden pond owners, keep up the good work!",
+
+
+
+"hir9_datum":"2022.05.04.",
+"hir9_kep":"/images/hirek/hir_9.jpg",
+"hir9_cim":"Sampling Packages",
+"hir9_szoveg_slider":"We have received water samples from all over the country. Thank you for the 270 boxes that you have already sent back to us!",
+"hir9_szoveg_bevezetes":"We have received water samples from all over the country. Thank you for the 270 boxes that you have already sent back to us!",
+"hir9_p1":"We have received water samples from all over the country. Thank you for the 270 boxes that you have already sent back to us!",
+"hir9_p2":"Haven't you returned the sampling package yet? Don't hesitate, we are looking forward to it! If you need help collecting the sample, click on the link or feel free to contact us by phone!",
+
+
+
+"hir10_datum":"2022.05.21.",
+"hir10_kep":"/images/hirek/hir_10.jpg",
+"hir10_cim":"Biodiversity Day at ELTE Füvészkert",
+"hir10_szoveg_slider":"On May 21st 2022 we were at the ELTE Botanical Garden. ",
+"hir10_szoveg_bevezetes":"On May 21st 2022 we were at the ELTE Botanical Garden. The ELTE Botanical Garden houses more than 8,500 plant species, 150 domestically endangered, and 250 red list species classified as endangered by the International Union for the Conservation of Nature (IUCN). ",
+"hir10_p1":"On May 21st 2022 we were at the ELTE Botanical Garden. The ELTE Botanical Garden houses more than 8,500 plant species, 150 domestically endangered, and 250 red list species classified as endangered by the International Union for the Conservation of Nature (IUCN). The Botanical Garden plays a particularly important conservation role by preserving and artificially propagating endangered and protected plants, as well as continuous plant reintroduction experiments.",
+"hir10_p2":"Biodiversity, or biological diversity as it is also called, affects the lives of all of us, its preservation is a common interest, the pledge of our future. On International Biodiversity Day, children and adults alike could participate in all-day family programs. In addition to the crafts and gardening activities for children, the visitors were able to expand their knowledge at a number of professional presentations and demonstrations during the event. From the water samples collected on site, those interested could learn more about the aquatic macroinvertebrates and zooplankton found in the small ponds. ",
+"hir10_p3":"We would like to express our thanks to the ELTE Füvészkert and to the lovely visitors for their interest in our work.",
+"hir10_p4":"We had a fantastic day with you!",
+
+
+
+"hir11_datum":"2022.05.27.",
+"hir11_kep":"/images/hirek/hir_11.jpg",
+"hir11_cim":"All about garden ponds on Klubrádió",
+"hir11_szoveg_slider":"Zsófia Horváth gave an interview to Klubrádio. You can listen to the conversation on the program 'Utopia'",
+"hir11_szoveg_bevezetes":"Zsófia Horváth gave an interview to Klubrádio. You can listen to the conversation on the program 'Utopia' (from 23:21).",
+"hir11_p1":"Source:",
+"hir11_p2":"Zsófia Horváth gave an interview to Klubrádio. You can listen to the conversation on the program 'Utopia' (from 23:21).",
+"hir11_p3":"Listen",
+
+
+"hir12_datum":"2022.06.13.",
+"hir12_kep":"/images/hirek/hir_12.jpg",
+"hir12_cim":"Readers of 24.hu got to know our work",
+"hir12_szoveg_slider":"Zsófia Horváth talks about how a newly built small pond can become populated",
+"hir12_szoveg_bevezetes":"Zsófia Horváth talks about how a newly built small pond can become populated",
+"hir12_p2":"In this ",
+"hir12_p3":"interview",
+"hir12_p4":" Zsófia Horváth talks about how a newly built small pond can become populated, why small ponds are important ecological stepping stones for the living world, why it is not worth following garden pond 'trends', and we read about how the MyPond survey is going.",
+
+
+"hir13_datum":"2022.05.07.",
+"hir13_kep":"/images/hirek/hir_13.jpg",
+"hir13_cim":"Sampling is closed — Thank you for participating in our project!",
+"hir13_szoveg_slider":"We would like to thank all the enthusiastic garden pond owners (more than 300 participants!) for helping our work, by sending us their water samples! ",
+"hir13_szoveg_bevezetes":"The 2022 sampling of the Hungarian ponds has come to an end, but you can still provide useful information to our project. ",
+"hir13_slider_cim": "Sampling is closed",
+"hir13_p1":"The 2022 sampling of the Hungarian ponds has come to an end, but you can still provide useful information to our project. If you would like to help our work, or find similar opportunities in the future, fill out our ",
+"hir13_p2":"questionnaire!",
+"hir13_p3":"We would like to thank all the enthusiastic garden pond owners (more than 300 participants!) for helping our work, by sending us their water samples! An entrance ticket to the Nyíregyházi Zoo, and a shopping voucher to Oázis Kertészet was drawn from the volunteer researchers who contributed water samples to the survey of Hungary's largest small lake. ",
+"hir13_p4":"Congratulation!",
+"hir13_p5":"If you are curious for the results, keep following our constantly updating website!",
+
+
+"hir14_datum":"2022.06.22.",
+"hir14_kep":"/images/hirek/hir_14.jpg",
+"hir14_cim":"MyPond researchers live on Tilos Radio",
+"hir14_szoveg_slider":"The interview with Zsófia Horváth, Barbara Barta, and Zsuzsanna Márton can be heard in the “A tudás (és a) hatalom” program",
+"hir14_szoveg_bevezetes":"The interview with Zsófia Horváth, Barbara Barta, and Zsuzsanna Márton can be heard in the “A tudás (és a) hatalom” program (from 04:31)",
+"hir14_p1":"The interview with Zsófia Horváth, Barbara Barta, and Zsuzsanna Márton can be heard in the “A tudás (és a) hatalom” program (from 04:31)",
+"hir14_p2":"Listen",
+
+
+"eredmenyek" :"/images/eredmenyek2.jpg",
+
+"mintavetel_video": "Nézd meg videónkat, és tudj meg többet a mintavétel folyamatáról!",
+
+
+"hir1_path_slider":"/hirek/irt_rounk_a_national_geographic",
+"hir2_path_slider":"/hirek/olvasd_el_a_qubit.hu_rolunk_irt_cikket",
+"hir3_path_slider":"/hirek/mypond_a_kutatok_ejszakajan",
+"hir4_path_slider":"/hirek/foldi_javak_asztalunkon_mi_is_ott_voltunk",
+"hir5_path_slider":"/hirek/magyarorszag_legnagyobb_kisto_felmerese",
+"hir6_path_slider":"/hirek/vigyazz_kesz_mintazz",
+"hir7_path_slider":"/hirek/interju_az_m5_musoran",
+"hir8_path_slider":"/hirek/mintavetel_a_fovarosi_allat_es_novenykert_kistavaibol",
+"hir9_path_slider":"/hirek/mintakuldes",
+"hir10_path_slider":"/hirek/biologiai_sokfeleseg_napja_a_fuveszkertben",
+"hir11_path_slider":"/hirek/kistavakrol_a_klub",
+"hir12_path_slider":"/hirek/megismerhettek_munkankat_a_24.hu_olvasoi",
+"hir13_path_slider":"/hirek/lezarult_a_mintavetel",
+"hir14_path_slider":"/hirek/mypond_kutatok_a_tilos_radioban",
+ 
+
+"hir1_path":"./irt_rounk_a_national_geographic",
+"hir2_path":"./olvasd_el_a_qubit.hu_rolunk_irt_cikket",
+"hir3_path":"./mypond_a_kutatok_ejszakajan",
+"hir4_path":"./foldi_javak_asztalunkon_mi_is_ott_voltunk",
+"hir5_path":"./magyarorszag_legnagyobb_kisto_felmerese",
+"hir6_path":"./vigyazz_kesz_mintazz",
+"hir7_path":"./interju_az_m5_musoran",
+"hir8_path":"./mintavetel_a_fovarosi_allat_es_novenykert_kistavaibol",
+"hir9_path":"./mintakuldes",
+"hir10_path":"./biologiai_sokfeleseg_napja_a_fuveszkertben",
+"hir11_path":"./kistavakrol_a_klub",
+"hir12_path":"./megismerhettek_munkankat_a_24.hu_olvasoi",
+"hir13_path":"./lezarult_a_mintavetel",
+"hir14_path":"./mypond_kutatok_a_tilos_radioban"
+
+  }

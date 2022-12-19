@@ -1,0 +1,759 @@
+/**********************\
+    MAIN CONTAINER 1
+\**********************/    
+
+html{
+    background:#fff;
+}
+
+
+.main_container_1{
+    width:100%;
+    height:100vh;
+    margin-top:-13rem;
+    /*background:url('/src/components/assets/images/MyPond_landing_kep_kicsi.jpg');*/
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+
+.main_container_title{
+    margin-top: min(13rem);
+
+
+}
+
+
+.right{
+    margin-bottom:15vh;
+    margin-right:8%;
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: column;
+    
+}
+
+
+.yellow_title{
+     color:#e6a42a;
+     font-size: 5rem;
+     text-shadow: 2.5px 2.5px #fff;
+     margin-bottom:5%;
+     /*border:white 1px solid;*/
+     font-family: 'Sahitya', serif;
+     font-style: italic;
+   /*  border:black 1px solid;*/
+     
+
+
+}
+
+
+.right_text{
+    width:100%;
+    margin-bottom:5vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 1rem;
+    /*border:black 1px solid;*/
+    
+    
+}
+
+.right_text p{
+    
+    color:white;
+    font-size: 1.5rem;
+    line-height: 160%;
+    font-weight: 300;
+    width:35ch;
+    font-weight: 500;
+}
+
+
+.tovabb_olvasok{
+    margin-left: 0.5rem;
+}
+
+
+
+
+.white{
+    color:#fff;
+}
+
+.button{
+    box-shadow: none;
+    text-decoration: none;
+    border:none;
+    background:none;
+
+    
+}
+
+.btn_div{
+    display: flex;
+    justify-content: flex-end;
+    height:100%;
+  
+}
+
+
+.kerdoiv_btn{
+    width:100%;
+    height:100%;
+   
+    text-decoration: none;
+    color:white;
+    font-size: 1.4rem;
+    font-weight: 900;
+    background:none;
+    border:white 5px solid;
+    border-radius: 5px;
+    padding:10px 20px;
+    transition: all 0.2s ease-in-out;
+}
+
+
+.button_zold{
+    box-shadow: none;
+    text-decoration: none;
+    border:none;
+    background:none;
+    
+}
+
+
+
+.kerdoiv_btn_zold{
+    width:100%;
+    height:100%;
+   
+    text-decoration: none;
+    color:var(--zold);
+    font-size: 1.4rem;
+    font-weight: 900;
+    background:none;
+    border:var(--zold) 5px solid;
+    border-radius: 5px;
+    padding:10px 20px;
+    transition: all 0.2s ease-in-out;
+}
+
+
+
+
+
+
+
+
+.kerdoiv_btn:hover{
+    background-color:#e6a42a;
+}
+
+.kerdoiv_btn_zold:hover {
+    background-color:var(--zold);
+    color:white;
+}
+
+
+
+
+/************************\
+    TABLET CONTAINER 1
+\************************/    
+@media only screen and (max-width: 1400px) {
+
+
+    .main_container_1{
+        height:100vh;
+        margin-top:-13rem;
+    }
+}
+
+@media only screen and (max-width: 1230px) {
+
+
+    .main_container_1{
+        height:100%;
+
+    }
+
+
+    .right{
+        margin:0;
+        margin-right:2rem;
+        margin-bottom:2rem;
+    }
+
+
+    .yellow_title{
+        font-size: 5rem;
+        margin:auto;
+        margin-top:min(35vh);
+        margin-bottom:2rem;
+    }
+
+
+    .right_text p{
+        font-size: 1.5rem;
+        font-weight: 500;
+
+
+    }
+
+
+    .button{
+        margin-right:5rem;
+    }
+
+
+}
+
+
+
+
+/*************************\
+     MOBILE CONTAINER 1
+\*************************/
+
+
+
+
+@media only screen and (max-width: 769px) {
+
+    .right{
+        width: 100%;;
+    }
+
+    .yellow_title{
+
+        width:100%;
+        margin:auto;
+        margin-top: 30vh;
+    }
+
+    .right_text{
+        margin:auto;
+        width:100%;
+    }
+
+    .right_text p{
+        width:80%;
+        margin:2rem 5rem 2rem ;
+    }
+
+    .button{
+        margin: auto;
+    }
+
+
+
+}
+
+
+
+
+
+
+/**********************\
+    MAIN CONTAINER 2
+\**********************/    
+
+
+.main_container_2{
+    width:100%;
+    height:100%;
+    margin-top:4rem;
+    margin-bottom:3rem;
+}
+
+
+.left{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+ /*   border:black 1px solid;*/
+    margin: auto;
+    padding-bottom:2rem;
+     
+
+}
+
+
+.left_text{
+    height:100%;
+    
+
+}
+
+
+.left__text--title{
+    font-size:2.8rem;
+    margin-bottom:5%;
+
+}
+
+
+.left__text--text{
+    width:58ch;
+    line-height: 150%;
+    font-weight: 400;
+    text-align: justify;
+    font-size: 1.2rem;
+    margin-bottom:5rem;
+    height:100%;
+}
+
+.left__image_container{
+    height:100%;
+}
+
+.left__image{
+height:26rem;
+margin:auto;
+/* border:black 1px solid;*/
+
+
+
+}
+strong{
+    font-style: italic;
+}
+
+/*.left__text--text{
+    font-weight: bold;
+    font-style: italic;
+}*/
+
+
+/************************\
+    TABLET CONTAINER 2
+\************************/    
+
+
+@media only screen and (max-width: 1230px) {
+
+    .left{
+        justify-content: space-between;
+        overflow-x: hidden;
+        
+
+    
+    }
+
+    .left__text--title{
+        padding-left:2rem;
+        margin-right:2rem;
+        width:100%;
+    }
+
+    .left__text--text{
+        width:40rem;
+        margin-bottom:1rem;;
+        padding-left:2rem;
+        padding-right:2rem;
+    }
+    
+
+}
+
+
+
+
+
+/************************\
+    MOBILE CONTAINER 2
+\************************/   
+
+
+@media only screen and (max-width: 769px) {
+    
+
+    .left{
+        height:100%;
+
+    }
+    
+
+    .left__text--title{
+        width:100%;
+        margin:auto;
+        margin-bottom:2rem;
+    }
+
+    
+    .left__text--text{
+        width:100%;
+  
+
+    }
+    
+    
+    
+    .left__image_container{
+        display: none;
+        
+    }
+}
+
+
+
+
+
+
+/**********************\
+YELLOW SECTION
+\**********************/     
+
+
+
+
+
+.yellow_line{
+    background: #e6a42a;
+padding-top: 3rem;   
+padding-bottom: 3rem;   
+
+    
+    
+}
+
+
+.icon_box{
+    display: grid;
+    grid-template-columns: repeat(6, auto);
+    justify-content: space-around;
+
+    
+    
+   
+
+}
+
+
+.icon_box_card{
+    display: flex;
+    flex-direction: column;
+}
+
+
+.icon_box_card>div{
+    display: flex;
+    justify-content: center;
+    
+}
+.icon_box_card, .icon_box_card>div
+{
+    width: 13rem;
+
+}
+
+
+.icon{
+    width:10rem;    
+    
+    margin-bottom:2rem;
+
+}
+
+
+.icon_box_text{
+    font-size: 1.2rem;    
+    text-align: center;
+    color: #414d25;
+    margin-top:1.5rem;
+    /*width:16ch;*/
+}
+
+
+
+
+
+
+/************************\
+    TABLET YELLOW LINE
+\************************/    
+
+
+@media only screen and (max-width: 1230px) { 
+    .icon_box{
+        grid-template-columns: repeat(3, auto);
+    }
+    
+    .icon_box_card{
+        margin-bottom:2rem;
+        margin-top:2rem;
+        
+    }
+    
+}
+
+
+
+
+
+/************************\
+    MOBILE YELLOW LINE
+\************************/ 
+
+
+@media only screen and (max-width: 769px) {
+    
+    .icon_box{
+        grid-template-columns: repeat(2, auto);
+    }
+    
+}
+
+/**************\
+SECTION3
+\**************/
+
+
+
+
+.main_page_right{
+  /*
+    background: url('/images/halak.jpg');
+  */
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+    
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.section_3{
+    margin-top:4rem;
+    margin-bottom:3rem;
+    margin-right:3rem;
+
+        
+}    
+
+.main_page_right_text {
+    margin-top:1rem;
+
+}
+
+@media only screen and (max-width: 1230px) { 
+    .main_page_right{
+    background-position: right;
+    background-size: cover;
+    width:100%;
+    }
+
+    .section_3{
+        position: relative;
+        width:40%;
+        right: 0;
+    }
+
+   
+
+
+
+
+
+    
+    .main_page_right_text {
+        width:100%;
+
+    }
+
+
+
+
+}
+
+@media only screen and (max-width: 1024px) { 
+    .section_3{
+        width: 50%;
+    }
+
+}
+
+@media only screen and (max-width: 769px) { 
+    .main_page_right{
+        background: none;
+    }
+
+    .section_3{
+    width:100%;
+    }
+    .main_page_right_title{
+        text-align: center;
+    }
+
+    .section_3 .main_page_right_title, .section_3 .main_page_right_text ,.section_3 .tovabb_olvasok_2{
+        color:white;
+    }
+
+}
+
+.video_container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    width:100%;
+    height:100%;
+margin-top:2rem;
+margin-bottom:2rem;    
+}
+
+.left_text_video{
+    padding-left:3rem;
+    padding-right:3rem;
+
+
+}
+
+.video_box{
+    width:100%;
+    
+    
+}
+
+.kanyar_box{
+    width:100%;
+    display: flex;
+    justify-content: flex-end;
+    
+}
+
+
+.kanyar{
+    width:50%;
+}
+
+
+
+
+@media only screen and (max-width: 1024px) { 
+
+    .video_container{
+        flex-direction: column;
+        width:100%;
+        margin-top:1rem;
+        
+
+    }
+
+    .left_text_video{
+        padding:0;
+    }
+    .kanyar_box{
+    display: none;
+    }
+
+
+}
+
+.logo_container{
+    margin-top:2rem;
+    margin-bottom:5rem;
+    display: flex;
+    flex-direction: column;
+    gap:2rem;
+    
+    
+    
+}
+
+.logo_container_box{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    width:90%;
+    height:100%;
+    gap:15px;
+    margin:auto;
+    
+}
+
+
+
+.logo_title{
+    margin-top:4rem;
+    padding-top:0;
+    text-align: center;
+    font-size: 2.5rem;
+    color: var(--narancs);
+    
+}
+
+
+.partnereink::before{
+    display: inline-block;
+    content: "";
+    border-top: 2px solid var(--zold);
+    width: 80%;
+    margin: 2rem auto 5rem;
+
+
+}
+
+.partnereink{
+    display: flex;
+    flex-direction: column;
+}
+
+.logo_box{
+
+    
+display: flex;
+justify-content: center;
+align-items: center;
+    filter: grayscale(1);
+    transition: all 0.25s ease-in-out;
+
+}
+
+.messer{
+    margin-top:-1rem;
+}
+
+.logo_box:hover{
+filter: grayscale(0);
+
+
+
+}
+/*
+
+.logo{
+    width:250px;
+}
+
+.logo_partner{
+    width:250px;
+}
+*/
+
+@media only screen and (max-width: 996px) {
+    .logo_title{
+        font-size: 3rem;
+        margin-top:1rem;
+    }
+    .logo_container_box{
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+
+    
+    }
+
+
+  }
+

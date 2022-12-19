@@ -1,0 +1,183 @@
+.kapcsolat_main{
+    width:100%;
+    height:100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-bottom:2rem;
+    margin-top:2rem;
+
+ 
+
+}
+.kapcsolat__map{
+
+    margin-left:5%;
+    margin-right:5%;
+
+}
+
+/*
+.kapcsolat__map iframe{
+    width:100%;
+    height:100%;
+}
+
+
+.kapcsolat_map_map{
+    border:0;
+
+
+   
+}
+
+*/
+.kapcsolat__adatok{
+    font-weight:800;
+    width:100%;
+}
+
+
+.kapcsolat__adatok_cim{
+    font-size: 2.1rem;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+    margin-bottom:0;
+    padding-bottom:0;
+
+}
+
+.adatok{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 300;
+
+    
+}
+
+.adatok1{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 300;
+    font-size: 1.7rem;
+
+}
+
+.email{
+    margin-top:2rem;
+    font-family:'Abril Fatface', cursive;
+    display: flex;
+    color: #414d25;
+    font-size: 1.8rem;
+
+
+}
+
+
+
+
+.kapcsolat_icon{
+    width:3rem; 
+    margin-right:2rem;
+
+
+}
+
+.social-icon_box_kapcsolat{
+    display: flex;
+    flex-direction: row;
+    width:50%;
+    justify-content: space-around;
+    margin-top:3rem;
+
+
+
+
+}
+
+@media only screen and (max-width: 1400px) {
+    .kapcsolat_main{
+
+        padding-left:5%;
+        padding-right:5%;
+        margin-top:3rem;
+        
+
+    }
+
+
+
+}
+
+
+
+
+
+
+@media only screen and (max-width: 1050px) {
+    .kapcsolat_main{
+        height:100%;
+        display: flex;
+        flex-direction: column-reverse;
+
+        
+
+    }
+
+    .kapcsolat__map{
+
+        width:40rem;
+    }
+
+
+    .kapcsolat__adatok, .kapcsolat__map{
+        width:100%;
+        
+    }
+
+
+    .kapcsolat__adatok_cim{
+        font-size: 2.2rem;
+    }
+
+
+    .kapcsolat_icon{
+        width:2rem;
+    }
+
+    .email{
+        font-size: 1.5rem;
+        width: 30ch;
+
+    }
+
+    .adatok{
+        width: 15ch;
+
+
+    }
+
+    .adatok1{
+        font-size: 1.8rem;
+    }
+
+    .kapcsolat__adatok__center{
+        display: flex;
+        flex-direction: column;
+
+
+    }
+
+    .kapcsolat_icon{
+        height:2rem;
+    }
+
+
+
+
+}
+
+.social-icon_box_kapcsolat{
+    margin-bottom: 3rem;
+}
+
+
+
